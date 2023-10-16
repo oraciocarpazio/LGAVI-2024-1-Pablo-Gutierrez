@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>12 oct 2023 16:38:24</name>
+    <description></description>
+    <atom:author>
+      <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+    </atom:author>
+    <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2023-10-12T22:38:24.237Z</when>
+    </TimeStamp>
+    <Style id="track">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark id="tour">
+      <name>12 oct 2023 16:38:24</name>
+      <description></description>
+      <atom:author>
+        <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+      </atom:author>
+      <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="activity">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <TimeSpan>
+        <begin>2023-10-12T22:38:24.237Z</begin>
+        <end>2023-10-12T22:43:08.723Z</end>
+      </TimeSpan>
+      <styleUrl>#track</styleUrl>
+      <gx:MultiTrack>
+        <altitudeMode>absolute</altitudeMode>
+        <gx:interpolate>0</gx:interpolate>
+        <gx:Track>
+          <gx:coord>-89.73585551 20.98843746 -4.33</gx:coord>
+          <when>2023-10-12T22:38:27Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>1.03</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>0.38</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-89.73586375 20.98845225 -5.05</gx:coord>
+          <when>2023-10-12T22:38:28Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>1.41</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>6.13</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-89.73586811 20.98846372 -5.24</gx:coord>
+          <when>2023-10-12T22:38:29Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>1.25</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>6.21</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-89.7359185 20.98849991 -0.87</gx:coord>
+          <when>2023-10-12T22:38:30Z</when>
+          <gx:coord>-89.73592635 20.98859339 -2.35</gx:coord>
+          <when>2023-10-12T22:38:39Z</when>
+          <gx:coord>-89.73592304 20.98869008 -2.81</gx:coord>
+          <when>2023-10-12T22:38:50Z</when>
+          <gx:coord>-89.73585633 20.9887648 -3.35</gx:coord>
+          <when>2023-10-12T22:39:03Z</when>
+          <gx:coord>-89.73575208 20.98877155 -3.62</gx:coord>
+          <when>2023-10-12T22:39:12Z</when>
+          <gx:coord>-89.7356506 20.98877673 -4.72</gx:coord>
+          <when>2023-10-12T22:39:21Z</when>
+          <gx:coord>-89.73555407 20.98877646 -3.72</gx:coord>
+          <when>2023-10-12T22:39:29Z</when>
+          <gx:coord>-89.73545272 20.98878184 -2.75</gx:coord>
+          <when>2023-10-12T22:39:37Z</when>
+          <gx:coord>-89.73536527 20.98873964 -3.15</gx:coord>
+          <when>2023-10-12T22:39:47Z</when>
+          <gx:coord>-89.73540471 20.98865197 -2.54</gx:coord>
+          <when>2023-10-12T22:39:57Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>1.19</gx:value>
+                <gx:value>1.28</gx:value>
+                <gx:value>0.88</gx:value>
+                <gx:value>1.17</gx:value>
+                <gx:value>1.19</gx:value>
+                <gx:value>1.18</gx:value>
+                <gx:value>1.32</gx:value>
+                <gx:value>1.17</gx:value>
+                <gx:value>1.33</gx:value>
+                <gx:value>1.23</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>6.24</gx:value>
+                <gx:value>6.23</gx:value>
+                <gx:value>0.16</gx:value>
+                <gx:value>1.25</gx:value>
+                <gx:value>1.73</gx:value>
+                <gx:value>1.53</gx:value>
+                <gx:value>1.5</gx:value>
+                <gx:value>1.48</gx:value>
+                <gx:value>3.24</gx:value>
+                <gx:value>4.57</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+      </gx:MultiTrack>
+    </Placemark>
+  </Document>
+</kml>
