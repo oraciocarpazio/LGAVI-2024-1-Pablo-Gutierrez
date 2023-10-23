@@ -1,0 +1,3666 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>19 oct 2023 08:57:24</name>
+    <description></description>
+    <atom:author>
+      <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+    </atom:author>
+    <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2023-10-19T14:57:24.181Z</when>
+    </TimeStamp>
+    <Style id="track">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark>
+      <name>19 oct 2023 09:24:55</name>
+      <description>Velocidad: 7.24 km/h
+Elevación: -5 m
+Tiempo desde inicio: 00:27:28
+Distancia desde inicio: 14.12 km</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-90.53505105,20.88527358,-6.08</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-19T15:24:55Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Ubicación actual</name>
+      <description>Velocidad: 0.61 km/h
+Curso: 253°
+Elevación: -4 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-90.53573571,20.88505887,-3.93</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-19T15:53:48Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark id="tour">
+      <name>19 oct 2023 08:57:24</name>
+      <description></description>
+      <atom:author>
+        <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+      </atom:author>
+      <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="activity">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <TimeSpan>
+        <begin>2023-10-19T14:57:24.181Z</begin>
+        <end>2023-10-19T15:53:37.783Z</end>
+      </TimeSpan>
+      <styleUrl>#track</styleUrl>
+      <gx:MultiTrack>
+        <altitudeMode>absolute</altitudeMode>
+        <gx:interpolate>0</gx:interpolate>
+        <gx:Track>
+          <gx:coord>-90.40445891 20.85851794 -10.5</gx:coord>
+          <when>2023-10-19T14:57:27Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>2.31</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>5.02</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-90.40447864 20.85852291 -10.73</gx:coord>
+          <when>2023-10-19T14:57:28Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>2.26</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>5</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-90.40449639 20.85852922 -11.17</gx:coord>
+          <when>2023-10-19T14:57:29Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>2.09</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>5.06</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+        <gx:Track>
+          <gx:coord>-90.40451392 20.85853625 -11.23</gx:coord>
+          <when>2023-10-19T14:57:30Z</when>
+          <gx:coord>-90.40462346 20.85856949 -10.91</gx:coord>
+          <when>2023-10-19T14:57:35Z</when>
+          <gx:coord>-90.40472336 20.85859467 -9.64</gx:coord>
+          <when>2023-10-19T14:57:39Z</when>
+          <gx:coord>-90.4048263 20.85862787 -10.1</gx:coord>
+          <when>2023-10-19T14:57:43Z</when>
+          <gx:coord>-90.40492598 20.858661 -9.78</gx:coord>
+          <when>2023-10-19T14:57:47Z</when>
+          <gx:coord>-90.40502902 20.85870039 -10.16</gx:coord>
+          <when>2023-10-19T14:57:51Z</when>
+          <gx:coord>-90.40513685 20.85873091 -9.88</gx:coord>
+          <when>2023-10-19T14:57:54Z</when>
+          <gx:coord>-90.40524966 20.85876465 -9.5</gx:coord>
+          <when>2023-10-19T14:57:57Z</when>
+          <gx:coord>-90.40537327 20.85880304 -9.26</gx:coord>
+          <when>2023-10-19T14:58:00Z</when>
+          <gx:coord>-90.40549479 20.85883785 -9.59</gx:coord>
+          <when>2023-10-19T14:58:03Z</when>
+          <gx:coord>-90.40562309 20.85886813 -9.92</gx:coord>
+          <when>2023-10-19T14:58:06Z</when>
+          <gx:coord>-90.40571925 20.85888371 -9.7</gx:coord>
+          <when>2023-10-19T14:58:08Z</when>
+          <gx:coord>-90.40583015 20.85890343 -9.64</gx:coord>
+          <when>2023-10-19T14:58:10Z</when>
+          <gx:coord>-90.40601183 20.85891534 -9.63</gx:coord>
+          <when>2023-10-19T14:58:13Z</when>
+          <gx:coord>-90.40615791 20.85891977 -9.58</gx:coord>
+          <when>2023-10-19T14:58:15Z</when>
+          <gx:coord>-90.40631083 20.85894075 -10.18</gx:coord>
+          <when>2023-10-19T14:58:17Z</when>
+          <gx:coord>-90.4065514 20.85899102 -10.77</gx:coord>
+          <when>2023-10-19T14:58:20Z</when>
+          <gx:coord>-90.40671311 20.85902385 -10.12</gx:coord>
+          <when>2023-10-19T14:58:22Z</when>
+          <gx:coord>-90.40688438 20.85905725 -10.28</gx:coord>
+          <when>2023-10-19T14:58:24Z</when>
+          <gx:coord>-90.4070504 20.85909365 -10.53</gx:coord>
+          <when>2023-10-19T14:58:26Z</when>
+          <gx:coord>-90.4072084 20.85913446 -11.25</gx:coord>
+          <when>2023-10-19T14:58:28Z</when>
+          <gx:coord>-90.40736186 20.85916855 -11.04</gx:coord>
+          <when>2023-10-19T14:58:30Z</when>
+          <gx:coord>-90.40751783 20.85920072 -10.33</gx:coord>
+          <when>2023-10-19T14:58:32Z</when>
+          <gx:coord>-90.40768046 20.85923103 -10.25</gx:coord>
+          <when>2023-10-19T14:58:34Z</when>
+          <gx:coord>-90.40785247 20.85926192 -10.25</gx:coord>
+          <when>2023-10-19T14:58:36Z</when>
+          <gx:coord>-90.40800956 20.85930887 -10.21</gx:coord>
+          <when>2023-10-19T14:58:38Z</when>
+          <gx:coord>-90.4081678 20.85935683 -10.48</gx:coord>
+          <when>2023-10-19T14:58:40Z</when>
+          <gx:coord>-90.4083225 20.85940262 -10.59</gx:coord>
+          <when>2023-10-19T14:58:42Z</when>
+          <gx:coord>-90.4084796 20.85944183 -10.74</gx:coord>
+          <when>2023-10-19T14:58:44Z</when>
+          <gx:coord>-90.40863703 20.85948093 -11.12</gx:coord>
+          <when>2023-10-19T14:58:46Z</when>
+          <gx:coord>-90.4087941 20.85952403 -10.17</gx:coord>
+          <when>2023-10-19T14:58:48Z</when>
+          <gx:coord>-90.40893994 20.8595665 -10.01</gx:coord>
+          <when>2023-10-19T14:58:50Z</when>
+          <gx:coord>-90.40909878 20.85961983 -8.77</gx:coord>
+          <when>2023-10-19T14:58:52Z</when>
+          <gx:coord>-90.40924878 20.85967523 -9.24</gx:coord>
+          <when>2023-10-19T14:58:54Z</when>
+          <gx:coord>-90.40941165 20.85972842 -8.78</gx:coord>
+          <when>2023-10-19T14:58:56Z</when>
+          <gx:coord>-90.40957502 20.85978456 -9.26</gx:coord>
+          <when>2023-10-19T14:58:58Z</when>
+          <gx:coord>-90.40973491 20.85983071 -9.53</gx:coord>
+          <when>2023-10-19T14:59:00Z</when>
+          <gx:coord>-90.40989344 20.85988434 -8.95</gx:coord>
+          <when>2023-10-19T14:59:02Z</when>
+          <gx:coord>-90.41005648 20.8599292 -8.34</gx:coord>
+          <when>2023-10-19T14:59:04Z</when>
+          <gx:coord>-90.41021483 20.85998342 -8.43</gx:coord>
+          <when>2023-10-19T14:59:06Z</when>
+          <gx:coord>-90.41037606 20.86003794 -8.74</gx:coord>
+          <when>2023-10-19T14:59:08Z</when>
+          <gx:coord>-90.41053496 20.86009568 -9</gx:coord>
+          <when>2023-10-19T14:59:10Z</when>
+          <gx:coord>-90.41070368 20.8601512 -9.24</gx:coord>
+          <when>2023-10-19T14:59:12Z</when>
+          <gx:coord>-90.4108759 20.86019123 -9.38</gx:coord>
+          <when>2023-10-19T14:59:14Z</when>
+          <gx:coord>-90.41103758 20.86023017 -9.37</gx:coord>
+          <when>2023-10-19T14:59:16Z</when>
+          <gx:coord>-90.41120559 20.86025483 -9.12</gx:coord>
+          <when>2023-10-19T14:59:18Z</when>
+          <gx:coord>-90.41137868 20.8602813 -9.52</gx:coord>
+          <when>2023-10-19T14:59:20Z</when>
+          <gx:coord>-90.41154814 20.86031267 -9.93</gx:coord>
+          <when>2023-10-19T14:59:22Z</when>
+          <gx:coord>-90.41172102 20.86034459 -10.46</gx:coord>
+          <when>2023-10-19T14:59:24Z</when>
+          <gx:coord>-90.41189601 20.86038839 -11.01</gx:coord>
+          <when>2023-10-19T14:59:26Z</when>
+          <gx:coord>-90.41199078 20.86040698 -10.44</gx:coord>
+          <when>2023-10-19T14:59:27Z</when>
+          <gx:coord>-90.41218243 20.86044706 -9.69</gx:coord>
+          <when>2023-10-19T14:59:29Z</when>
+          <gx:coord>-90.41237403 20.86047395 -9.74</gx:coord>
+          <when>2023-10-19T14:59:31Z</when>
+          <gx:coord>-90.4124717 20.86049338 -9.34</gx:coord>
+          <when>2023-10-19T14:59:32Z</when>
+          <gx:coord>-90.41257459 20.86051136 -9.2</gx:coord>
+          <when>2023-10-19T14:59:33Z</when>
+          <gx:coord>-90.41266905 20.86052896 -8.81</gx:coord>
+          <when>2023-10-19T14:59:34Z</when>
+          <gx:coord>-90.41284711 20.86055512 -9.5</gx:coord>
+          <when>2023-10-19T14:59:36Z</when>
+          <gx:coord>-90.41294802 20.86057542 -9.36</gx:coord>
+          <when>2023-10-19T14:59:37Z</when>
+          <gx:coord>-90.41304364 20.86059818 -9.12</gx:coord>
+          <when>2023-10-19T14:59:38Z</when>
+          <gx:coord>-90.41323074 20.86063876 -9.85</gx:coord>
+          <when>2023-10-19T14:59:40Z</when>
+          <gx:coord>-90.41341446 20.8606842 -10.08</gx:coord>
+          <when>2023-10-19T14:59:42Z</when>
+          <gx:coord>-90.41350975 20.86070675 -9.91</gx:coord>
+          <when>2023-10-19T14:59:43Z</when>
+          <gx:coord>-90.4136913 20.86074389 -9.77</gx:coord>
+          <when>2023-10-19T14:59:45Z</when>
+          <gx:coord>-90.413875 20.86079358 -8.99</gx:coord>
+          <when>2023-10-19T14:59:47Z</when>
+          <gx:coord>-90.4139683 20.86082473 -8.95</gx:coord>
+          <when>2023-10-19T14:59:48Z</when>
+          <gx:coord>-90.41415047 20.86088297 -8.85</gx:coord>
+          <when>2023-10-19T14:59:50Z</when>
+          <gx:coord>-90.41433429 20.86094227 -9.19</gx:coord>
+          <when>2023-10-19T14:59:52Z</when>
+          <gx:coord>-90.41452182 20.8610045 -8.85</gx:coord>
+          <when>2023-10-19T14:59:54Z</when>
+          <gx:coord>-90.41461639 20.86103988 -8.27</gx:coord>
+          <when>2023-10-19T14:59:55Z</when>
+          <gx:coord>-90.4147142 20.86107302 -7.64</gx:coord>
+          <when>2023-10-19T14:59:56Z</when>
+          <gx:coord>-90.41481198 20.86109982 -7.29</gx:coord>
+          <when>2023-10-19T14:59:57Z</when>
+          <gx:coord>-90.41500183 20.86114506 -7.77</gx:coord>
+          <when>2023-10-19T14:59:59Z</when>
+          <gx:coord>-90.4151847 20.86118781 -8.17</gx:coord>
+          <when>2023-10-19T15:00:01Z</when>
+          <gx:coord>-90.41527979 20.86121596 -8.52</gx:coord>
+          <when>2023-10-19T15:00:02Z</when>
+          <gx:coord>-90.41546413 20.86126223 -7.91</gx:coord>
+          <when>2023-10-19T15:00:04Z</when>
+          <gx:coord>-90.41555955 20.86128345 -7.99</gx:coord>
+          <when>2023-10-19T15:00:05Z</when>
+          <gx:coord>-90.41566107 20.86129983 -7.9</gx:coord>
+          <when>2023-10-19T15:00:06Z</when>
+          <gx:coord>-90.41584462 20.86130986 -7.54</gx:coord>
+          <when>2023-10-19T15:00:08Z</when>
+          <gx:coord>-90.41594238 20.86131191 -7.72</gx:coord>
+          <when>2023-10-19T15:00:09Z</when>
+          <gx:coord>-90.4160392 20.86131394 -7.56</gx:coord>
+          <when>2023-10-19T15:00:10Z</when>
+          <gx:coord>-90.4161355 20.86131955 -7.63</gx:coord>
+          <when>2023-10-19T15:00:11Z</when>
+          <gx:coord>-90.41632129 20.86136121 -7.93</gx:coord>
+          <when>2023-10-19T15:00:13Z</when>
+          <gx:coord>-90.4164134 20.86138696 -7.96</gx:coord>
+          <when>2023-10-19T15:00:14Z</when>
+          <gx:coord>-90.41659949 20.86144058 -8.06</gx:coord>
+          <when>2023-10-19T15:00:16Z</when>
+          <gx:coord>-90.41678397 20.86148828 -8.53</gx:coord>
+          <when>2023-10-19T15:00:18Z</when>
+          <gx:coord>-90.41688029 20.86150637 -8.59</gx:coord>
+          <when>2023-10-19T15:00:19Z</when>
+          <gx:coord>-90.4170635 20.86155223 -9.11</gx:coord>
+          <when>2023-10-19T15:00:21Z</when>
+          <gx:coord>-90.41724734 20.86159713 -9.5</gx:coord>
+          <when>2023-10-19T15:00:23Z</when>
+          <gx:coord>-90.41734055 20.86162154 -9.85</gx:coord>
+          <when>2023-10-19T15:00:24Z</when>
+          <gx:coord>-90.41752614 20.86167177 -9.41</gx:coord>
+          <when>2023-10-19T15:00:26Z</when>
+          <gx:coord>-90.41761961 20.86169481 -9.71</gx:coord>
+          <when>2023-10-19T15:00:27Z</when>
+          <gx:coord>-90.41780378 20.86173828 -10.09</gx:coord>
+          <when>2023-10-19T15:00:29Z</when>
+          <gx:coord>-90.41798728 20.86178813 -9.16</gx:coord>
+          <when>2023-10-19T15:00:31Z</when>
+          <gx:coord>-90.41817116 20.86183341 -8.87</gx:coord>
+          <when>2023-10-19T15:00:33Z</when>
+          <gx:coord>-90.41826222 20.86186524 -8.98</gx:coord>
+          <when>2023-10-19T15:00:34Z</when>
+          <gx:coord>-90.41835675 20.86188872 -8.81</gx:coord>
+          <when>2023-10-19T15:00:35Z</when>
+          <gx:coord>-90.41853417 20.86195178 -9.12</gx:coord>
+          <when>2023-10-19T15:00:37Z</when>
+          <gx:coord>-90.41872078 20.86200864 -9.04</gx:coord>
+          <when>2023-10-19T15:00:39Z</when>
+          <gx:coord>-90.41890296 20.86204803 -8.93</gx:coord>
+          <when>2023-10-19T15:00:41Z</when>
+          <gx:coord>-90.41908095 20.86210151 -8.85</gx:coord>
+          <when>2023-10-19T15:00:43Z</when>
+          <gx:coord>-90.41917527 20.86213352 -8.52</gx:coord>
+          <when>2023-10-19T15:00:44Z</when>
+          <gx:coord>-90.4193528 20.86219406 -8.42</gx:coord>
+          <when>2023-10-19T15:00:46Z</when>
+          <gx:coord>-90.41952464 20.86225082 -8.42</gx:coord>
+          <when>2023-10-19T15:00:48Z</when>
+          <gx:coord>-90.41969804 20.86230856 -8.48</gx:coord>
+          <when>2023-10-19T15:00:50Z</when>
+          <gx:coord>-90.41988076 20.86232712 -8.87</gx:coord>
+          <when>2023-10-19T15:00:52Z</when>
+          <gx:coord>-90.42006769 20.86234579 -8.74</gx:coord>
+          <when>2023-10-19T15:00:54Z</when>
+          <gx:coord>-90.42025136 20.86237128 -8.48</gx:coord>
+          <when>2023-10-19T15:00:56Z</when>
+          <gx:coord>-90.42043632 20.862408 -7.87</gx:coord>
+          <when>2023-10-19T15:00:58Z</when>
+          <gx:coord>-90.42061527 20.86244795 -7.86</gx:coord>
+          <when>2023-10-19T15:01:00Z</when>
+          <gx:coord>-90.42078467 20.86248684 -8.64</gx:coord>
+          <when>2023-10-19T15:01:02Z</when>
+          <gx:coord>-90.42096851 20.86251445 -8.78</gx:coord>
+          <when>2023-10-19T15:01:04Z</when>
+          <gx:coord>-90.42114549 20.86255886 -8.42</gx:coord>
+          <when>2023-10-19T15:01:06Z</when>
+          <gx:coord>-90.42131848 20.86261096 -8.59</gx:coord>
+          <when>2023-10-19T15:01:08Z</when>
+          <gx:coord>-90.42149851 20.86265921 -7.82</gx:coord>
+          <when>2023-10-19T15:01:10Z</when>
+          <gx:coord>-90.42167701 20.86270712 -7.91</gx:coord>
+          <when>2023-10-19T15:01:12Z</when>
+          <gx:coord>-90.4218532 20.86274658 -7.54</gx:coord>
+          <when>2023-10-19T15:01:14Z</when>
+          <gx:coord>-90.42203838 20.86278566 -7.65</gx:coord>
+          <when>2023-10-19T15:01:16Z</when>
+          <gx:coord>-90.42221283 20.86282291 -7.79</gx:coord>
+          <when>2023-10-19T15:01:18Z</when>
+          <gx:coord>-90.42239382 20.86286624 -7.47</gx:coord>
+          <when>2023-10-19T15:01:20Z</when>
+          <gx:coord>-90.4225738 20.86289966 -7.08</gx:coord>
+          <when>2023-10-19T15:01:22Z</when>
+          <gx:coord>-90.42275757 20.8629313 -7.13</gx:coord>
+          <when>2023-10-19T15:01:24Z</when>
+          <gx:coord>-90.42303302 20.86299831 -7</gx:coord>
+          <when>2023-10-19T15:01:27Z</when>
+          <gx:coord>-90.42321128 20.8630546 -7.65</gx:coord>
+          <when>2023-10-19T15:01:29Z</when>
+          <gx:coord>-90.42339517 20.86311232 -7.27</gx:coord>
+          <when>2023-10-19T15:01:31Z</when>
+          <gx:coord>-90.4235677 20.86316906 -8.31</gx:coord>
+          <when>2023-10-19T15:01:33Z</when>
+          <gx:coord>-90.42374759 20.86323068 -7.94</gx:coord>
+          <when>2023-10-19T15:01:35Z</when>
+          <gx:coord>-90.42392591 20.86327676 -8.05</gx:coord>
+          <when>2023-10-19T15:01:37Z</when>
+          <gx:coord>-90.42409842 20.86331488 -8.32</gx:coord>
+          <when>2023-10-19T15:01:39Z</when>
+          <gx:coord>-90.42427757 20.86334268 -8.34</gx:coord>
+          <when>2023-10-19T15:01:41Z</when>
+          <gx:coord>-90.42445023 20.86337515 -8.41</gx:coord>
+          <when>2023-10-19T15:01:43Z</when>
+          <gx:coord>-90.42461211 20.86340333 -8.28</gx:coord>
+          <when>2023-10-19T15:01:45Z</when>
+          <gx:coord>-90.42470691 20.86342444 -8.26</gx:coord>
+          <when>2023-10-19T15:01:46Z</when>
+          <gx:coord>-90.42487383 20.86347034 -8.24</gx:coord>
+          <when>2023-10-19T15:01:48Z</when>
+          <gx:coord>-90.42504994 20.86352274 -9.34</gx:coord>
+          <when>2023-10-19T15:01:50Z</when>
+          <gx:coord>-90.42522507 20.86356752 -9.38</gx:coord>
+          <when>2023-10-19T15:01:52Z</when>
+          <gx:coord>-90.42539566 20.86362456 -9.12</gx:coord>
+          <when>2023-10-19T15:01:54Z</when>
+          <gx:coord>-90.42558284 20.86367804 -8.27</gx:coord>
+          <when>2023-10-19T15:01:56Z</when>
+          <gx:coord>-90.42567413 20.86370913 -9.25</gx:coord>
+          <when>2023-10-19T15:01:57Z</when>
+          <gx:coord>-90.42584758 20.86377709 -9.04</gx:coord>
+          <when>2023-10-19T15:01:59Z</when>
+          <gx:coord>-90.42602114 20.8638376 -8.99</gx:coord>
+          <when>2023-10-19T15:02:01Z</when>
+          <gx:coord>-90.42611084 20.86387092 -8.74</gx:coord>
+          <when>2023-10-19T15:02:02Z</when>
+          <gx:coord>-90.42627275 20.8639153 -8.41</gx:coord>
+          <when>2023-10-19T15:02:04Z</when>
+          <gx:coord>-90.426439 20.86398121 -9.32</gx:coord>
+          <when>2023-10-19T15:02:06Z</when>
+          <gx:coord>-90.42661603 20.86403245 -9.07</gx:coord>
+          <when>2023-10-19T15:02:08Z</when>
+          <gx:coord>-90.4268025 20.86406258 -9.02</gx:coord>
+          <when>2023-10-19T15:02:10Z</when>
+          <gx:coord>-90.42697693 20.86410351 -8.6</gx:coord>
+          <when>2023-10-19T15:02:12Z</when>
+          <gx:coord>-90.42715562 20.86415093 -9.04</gx:coord>
+          <when>2023-10-19T15:02:14Z</when>
+          <gx:coord>-90.42733146 20.86419368 -9.93</gx:coord>
+          <when>2023-10-19T15:02:16Z</when>
+          <gx:coord>-90.42749734 20.86423962 -9.07</gx:coord>
+          <when>2023-10-19T15:02:18Z</when>
+          <gx:coord>-90.42767567 20.86428327 -8.06</gx:coord>
+          <when>2023-10-19T15:02:20Z</when>
+          <gx:coord>-90.42784598 20.86432614 -7.4</gx:coord>
+          <when>2023-10-19T15:02:22Z</when>
+          <gx:coord>-90.42802299 20.86437237 -7.67</gx:coord>
+          <when>2023-10-19T15:02:24Z</when>
+          <gx:coord>-90.42820105 20.86441285 -7.17</gx:coord>
+          <when>2023-10-19T15:02:26Z</when>
+          <gx:coord>-90.42837341 20.86445178 -7.45</gx:coord>
+          <when>2023-10-19T15:02:28Z</when>
+          <gx:coord>-90.42854945 20.8644948 -7.36</gx:coord>
+          <when>2023-10-19T15:02:30Z</when>
+          <gx:coord>-90.42872379 20.8645421 -7.73</gx:coord>
+          <when>2023-10-19T15:02:32Z</when>
+          <gx:coord>-90.42889749 20.86458107 -8.03</gx:coord>
+          <when>2023-10-19T15:02:34Z</when>
+          <gx:coord>-90.42907053 20.86462459 -8.62</gx:coord>
+          <when>2023-10-19T15:02:36Z</when>
+          <gx:coord>-90.42924002 20.864663 -9.4</gx:coord>
+          <when>2023-10-19T15:02:38Z</when>
+          <gx:coord>-90.42942043 20.8646999 -9.43</gx:coord>
+          <when>2023-10-19T15:02:40Z</when>
+          <gx:coord>-90.42958978 20.86475834 -9.42</gx:coord>
+          <when>2023-10-19T15:02:42Z</when>
+          <gx:coord>-90.42976046 20.86480629 -9.64</gx:coord>
+          <when>2023-10-19T15:02:44Z</when>
+          <gx:coord>-90.43003265 20.86485833 -10.21</gx:coord>
+          <when>2023-10-19T15:02:47Z</when>
+          <gx:coord>-90.43020805 20.86491319 -9.03</gx:coord>
+          <when>2023-10-19T15:02:49Z</when>
+          <gx:coord>-90.43038876 20.86496392 -8.22</gx:coord>
+          <when>2023-10-19T15:02:51Z</when>
+          <gx:coord>-90.43054988 20.86500988 -8.15</gx:coord>
+          <when>2023-10-19T15:02:53Z</when>
+          <gx:coord>-90.43072258 20.86505298 -8.22</gx:coord>
+          <when>2023-10-19T15:02:55Z</when>
+          <gx:coord>-90.43089291 20.86511134 -8.44</gx:coord>
+          <when>2023-10-19T15:02:57Z</when>
+          <gx:coord>-90.43107191 20.86515296 -8.63</gx:coord>
+          <when>2023-10-19T15:02:59Z</when>
+          <gx:coord>-90.431257 20.86519384 -8.54</gx:coord>
+          <when>2023-10-19T15:03:01Z</when>
+          <gx:coord>-90.43135725 20.86521495 -8.52</gx:coord>
+          <when>2023-10-19T15:03:02Z</when>
+          <gx:coord>-90.43145443 20.86523775 -7.51</gx:coord>
+          <when>2023-10-19T15:03:03Z</when>
+          <gx:coord>-90.43163064 20.86528152 -6.73</gx:coord>
+          <when>2023-10-19T15:03:05Z</when>
+          <gx:coord>-90.43180454 20.86532868 -6.62</gx:coord>
+          <when>2023-10-19T15:03:07Z</when>
+          <gx:coord>-90.4319802 20.8653851 -6.66</gx:coord>
+          <when>2023-10-19T15:03:09Z</when>
+          <gx:coord>-90.43215052 20.86544625 -6.72</gx:coord>
+          <when>2023-10-19T15:03:11Z</when>
+          <gx:coord>-90.43232525 20.8654943 -6.36</gx:coord>
+          <when>2023-10-19T15:03:13Z</when>
+          <gx:coord>-90.43249986 20.86553491 -6.28</gx:coord>
+          <when>2023-10-19T15:03:15Z</when>
+          <gx:coord>-90.43266986 20.86557195 -6.59</gx:coord>
+          <when>2023-10-19T15:03:17Z</when>
+          <gx:coord>-90.43284057 20.86561734 -6.75</gx:coord>
+          <when>2023-10-19T15:03:19Z</when>
+          <gx:coord>-90.43301097 20.86565206 -6.3</gx:coord>
+          <when>2023-10-19T15:03:21Z</when>
+          <gx:coord>-90.4331715 20.8657056 -7.05</gx:coord>
+          <when>2023-10-19T15:03:23Z</when>
+          <gx:coord>-90.43333169 20.8657632 -7.54</gx:coord>
+          <when>2023-10-19T15:03:25Z</when>
+          <gx:coord>-90.43358161 20.86583646 -7.25</gx:coord>
+          <when>2023-10-19T15:03:28Z</when>
+          <gx:coord>-90.43375658 20.86587691 -6.85</gx:coord>
+          <when>2023-10-19T15:03:30Z</when>
+          <gx:coord>-90.43392643 20.86591468 -7.33</gx:coord>
+          <when>2023-10-19T15:03:32Z</when>
+          <gx:coord>-90.43409228 20.86594052 -7.96</gx:coord>
+          <when>2023-10-19T15:03:34Z</when>
+          <gx:coord>-90.43427009 20.86597525 -8.04</gx:coord>
+          <when>2023-10-19T15:03:36Z</when>
+          <gx:coord>-90.43443833 20.86601931 -7.86</gx:coord>
+          <when>2023-10-19T15:03:38Z</when>
+          <gx:coord>-90.43460778 20.86605712 -8.11</gx:coord>
+          <when>2023-10-19T15:03:40Z</when>
+          <gx:coord>-90.43477316 20.86610146 -8.65</gx:coord>
+          <when>2023-10-19T15:03:42Z</when>
+          <gx:coord>-90.43494346 20.8661448 -8.7</gx:coord>
+          <when>2023-10-19T15:03:44Z</when>
+          <gx:coord>-90.4351136 20.86619031 -9.63</gx:coord>
+          <when>2023-10-19T15:03:46Z</when>
+          <gx:coord>-90.43520814 20.86622742 -9</gx:coord>
+          <when>2023-10-19T15:03:47Z</when>
+          <gx:coord>-90.4353772 20.86628256 -8.96</gx:coord>
+          <when>2023-10-19T15:03:49Z</when>
+          <gx:coord>-90.43554518 20.8663384 -9.45</gx:coord>
+          <when>2023-10-19T15:03:51Z</when>
+          <gx:coord>-90.43571255 20.86639543 -8.7</gx:coord>
+          <when>2023-10-19T15:03:53Z</when>
+          <gx:coord>-90.43587686 20.8664362 -9.35</gx:coord>
+          <when>2023-10-19T15:03:55Z</when>
+          <gx:coord>-90.43604681 20.8664884 -8.83</gx:coord>
+          <when>2023-10-19T15:03:57Z</when>
+          <gx:coord>-90.43621627 20.86652701 -8.92</gx:coord>
+          <when>2023-10-19T15:03:59Z</when>
+          <gx:coord>-90.43638398 20.86655713 -9.57</gx:coord>
+          <when>2023-10-19T15:04:01Z</when>
+          <gx:coord>-90.43655582 20.86658494 -9.36</gx:coord>
+          <when>2023-10-19T15:04:03Z</when>
+          <gx:coord>-90.43672424 20.8666237 -9.36</gx:coord>
+          <when>2023-10-19T15:04:05Z</when>
+          <gx:coord>-90.43689001 20.86667085 -9.9</gx:coord>
+          <when>2023-10-19T15:04:07Z</when>
+          <gx:coord>-90.43705755 20.86672262 -10.3</gx:coord>
+          <when>2023-10-19T15:04:09Z</when>
+          <gx:coord>-90.43723414 20.86677063 -11.14</gx:coord>
+          <when>2023-10-19T15:04:11Z</when>
+          <gx:coord>-90.43740905 20.86681614 -10.7</gx:coord>
+          <when>2023-10-19T15:04:13Z</when>
+          <gx:coord>-90.43758197 20.8668642 -10.06</gx:coord>
+          <when>2023-10-19T15:04:15Z</when>
+          <gx:coord>-90.43775193 20.86691002 -10.42</gx:coord>
+          <when>2023-10-19T15:04:17Z</when>
+          <gx:coord>-90.4378468 20.8669345 -10.44</gx:coord>
+          <when>2023-10-19T15:04:18Z</when>
+          <gx:coord>-90.43802562 20.86698232 -11.3</gx:coord>
+          <when>2023-10-19T15:04:20Z</when>
+          <gx:coord>-90.43819473 20.86702474 -11.23</gx:coord>
+          <when>2023-10-19T15:04:22Z</when>
+          <gx:coord>-90.43835723 20.86706549 -10.77</gx:coord>
+          <when>2023-10-19T15:04:24Z</when>
+          <gx:coord>-90.43845496 20.86708947 -10.81</gx:coord>
+          <when>2023-10-19T15:04:25Z</when>
+          <gx:coord>-90.43863704 20.86714263 -10.86</gx:coord>
+          <when>2023-10-19T15:04:27Z</when>
+          <gx:coord>-90.4387298 20.86717013 -10.54</gx:coord>
+          <when>2023-10-19T15:04:28Z</when>
+          <gx:coord>-90.43890455 20.86721521 -10.05</gx:coord>
+          <when>2023-10-19T15:04:30Z</when>
+          <gx:coord>-90.4391734 20.86728426 -10.2</gx:coord>
+          <when>2023-10-19T15:04:33Z</when>
+          <gx:coord>-90.43935043 20.86732956 -9.63</gx:coord>
+          <when>2023-10-19T15:04:35Z</when>
+          <gx:coord>-90.43952682 20.86737852 -9.53</gx:coord>
+          <when>2023-10-19T15:04:37Z</when>
+          <gx:coord>-90.43969438 20.86743377 -9.97</gx:coord>
+          <when>2023-10-19T15:04:39Z</when>
+          <gx:coord>-90.43986603 20.86748967 -9.65</gx:coord>
+          <when>2023-10-19T15:04:41Z</when>
+          <gx:coord>-90.44004113 20.86754449 -10.17</gx:coord>
+          <when>2023-10-19T15:04:43Z</when>
+          <gx:coord>-90.44021641 20.86759853 -10.26</gx:coord>
+          <when>2023-10-19T15:04:45Z</when>
+          <gx:coord>-90.44039054 20.86765019 -11.39</gx:coord>
+          <when>2023-10-19T15:04:47Z</when>
+          <gx:coord>-90.44056697 20.86770153 -11.39</gx:coord>
+          <when>2023-10-19T15:04:49Z</when>
+          <gx:coord>-90.44074298 20.86775809 -10.89</gx:coord>
+          <when>2023-10-19T15:04:51Z</when>
+          <gx:coord>-90.44091356 20.86782197 -10.96</gx:coord>
+          <when>2023-10-19T15:04:53Z</when>
+          <gx:coord>-90.44108497 20.86787691 -11.68</gx:coord>
+          <when>2023-10-19T15:04:55Z</when>
+          <gx:coord>-90.44126349 20.86792961 -12.12</gx:coord>
+          <when>2023-10-19T15:04:57Z</when>
+          <gx:coord>-90.44143244 20.86798664 -12.2</gx:coord>
+          <when>2023-10-19T15:04:59Z</when>
+          <gx:coord>-90.44159784 20.86804843 -13.83</gx:coord>
+          <when>2023-10-19T15:05:01Z</when>
+          <gx:coord>-90.44176373 20.8681129 -13.95</gx:coord>
+          <when>2023-10-19T15:05:03Z</when>
+          <gx:coord>-90.44192964 20.86817104 -14.45</gx:coord>
+          <when>2023-10-19T15:05:05Z</when>
+          <gx:coord>-90.44209531 20.86823634 -13.78</gx:coord>
+          <when>2023-10-19T15:05:07Z</when>
+          <gx:coord>-90.44226177 20.86829828 -13.9</gx:coord>
+          <when>2023-10-19T15:05:09Z</when>
+          <gx:coord>-90.44242196 20.86836898 -14.39</gx:coord>
+          <when>2023-10-19T15:05:11Z</when>
+          <gx:coord>-90.44259824 20.8684158 -14.14</gx:coord>
+          <when>2023-10-19T15:05:13Z</when>
+          <gx:coord>-90.44277363 20.86845635 -13.82</gx:coord>
+          <when>2023-10-19T15:05:15Z</when>
+          <gx:coord>-90.44294738 20.86848963 -13.6</gx:coord>
+          <when>2023-10-19T15:05:17Z</when>
+          <gx:coord>-90.44312932 20.86851874 -13.97</gx:coord>
+          <when>2023-10-19T15:05:19Z</when>
+          <gx:coord>-90.4433097 20.86854903 -14.75</gx:coord>
+          <when>2023-10-19T15:05:21Z</when>
+          <gx:coord>-90.44347895 20.86858466 -14.65</gx:coord>
+          <when>2023-10-19T15:05:23Z</when>
+          <gx:coord>-90.44365895 20.86862727 -14.45</gx:coord>
+          <when>2023-10-19T15:05:25Z</when>
+          <gx:coord>-90.4438354 20.8686662 -15.22</gx:coord>
+          <when>2023-10-19T15:05:27Z</when>
+          <gx:coord>-90.44401448 20.86871296 -14.09</gx:coord>
+          <when>2023-10-19T15:05:29Z</when>
+          <gx:coord>-90.44419181 20.86874805 -14.12</gx:coord>
+          <when>2023-10-19T15:05:31Z</when>
+          <gx:coord>-90.44437176 20.86878146 -13.33</gx:coord>
+          <when>2023-10-19T15:05:33Z</when>
+          <gx:coord>-90.44454587 20.86881632 -13.31</gx:coord>
+          <when>2023-10-19T15:05:35Z</when>
+          <gx:coord>-90.44471349 20.86885695 -13.22</gx:coord>
+          <when>2023-10-19T15:05:37Z</when>
+          <gx:coord>-90.44489322 20.86889758 -13.11</gx:coord>
+          <when>2023-10-19T15:05:39Z</when>
+          <gx:coord>-90.4450629 20.868933 -12.91</gx:coord>
+          <when>2023-10-19T15:05:41Z</when>
+          <gx:coord>-90.44523893 20.86897891 -12.95</gx:coord>
+          <when>2023-10-19T15:05:43Z</when>
+          <gx:coord>-90.44540993 20.86901756 -13.05</gx:coord>
+          <when>2023-10-19T15:05:45Z</when>
+          <gx:coord>-90.44557326 20.86905586 -12.44</gx:coord>
+          <when>2023-10-19T15:05:47Z</when>
+          <gx:coord>-90.44574615 20.86908586 -12.01</gx:coord>
+          <when>2023-10-19T15:05:49Z</when>
+          <gx:coord>-90.44592329 20.86911605 -12.22</gx:coord>
+          <when>2023-10-19T15:05:51Z</when>
+          <gx:coord>-90.44608421 20.86915998 -11.87</gx:coord>
+          <when>2023-10-19T15:05:53Z</when>
+          <gx:coord>-90.44625544 20.86919591 -12.05</gx:coord>
+          <when>2023-10-19T15:05:55Z</when>
+          <gx:coord>-90.44641949 20.86924417 -13.44</gx:coord>
+          <when>2023-10-19T15:05:57Z</when>
+          <gx:coord>-90.44658558 20.86928906 -13.6</gx:coord>
+          <when>2023-10-19T15:05:59Z</when>
+          <gx:coord>-90.44675954 20.86932844 -12.98</gx:coord>
+          <when>2023-10-19T15:06:01Z</when>
+          <gx:coord>-90.44693177 20.86936899 -12.54</gx:coord>
+          <when>2023-10-19T15:06:03Z</when>
+          <gx:coord>-90.4471025 20.86940506 -12.3</gx:coord>
+          <when>2023-10-19T15:06:05Z</when>
+          <gx:coord>-90.44727232 20.86945743 -12.62</gx:coord>
+          <when>2023-10-19T15:06:07Z</when>
+          <gx:coord>-90.44743522 20.86950973 -12.88</gx:coord>
+          <when>2023-10-19T15:06:09Z</when>
+          <gx:coord>-90.44752677 20.86953892 -12.48</gx:coord>
+          <when>2023-10-19T15:06:10Z</when>
+          <gx:coord>-90.44770233 20.86959077 -12.64</gx:coord>
+          <when>2023-10-19T15:06:12Z</when>
+          <gx:coord>-90.44786816 20.86963846 -13.53</gx:coord>
+          <when>2023-10-19T15:06:14Z</when>
+          <gx:coord>-90.44803864 20.86969559 -13.48</gx:coord>
+          <when>2023-10-19T15:06:16Z</when>
+          <gx:coord>-90.44820446 20.86975954 -13.56</gx:coord>
+          <when>2023-10-19T15:06:18Z</when>
+          <gx:coord>-90.44837761 20.8698053 -13.88</gx:coord>
+          <when>2023-10-19T15:06:20Z</when>
+          <gx:coord>-90.44854343 20.86983955 -14.26</gx:coord>
+          <when>2023-10-19T15:06:22Z</when>
+          <gx:coord>-90.4487223 20.86987227 -13.54</gx:coord>
+          <when>2023-10-19T15:06:24Z</when>
+          <gx:coord>-90.44888188 20.86990482 -12.08</gx:coord>
+          <when>2023-10-19T15:06:26Z</when>
+          <gx:coord>-90.44902901 20.86991067 -12.61</gx:coord>
+          <when>2023-10-19T15:06:28Z</when>
+          <gx:coord>-90.44919344 20.86995692 -10.89</gx:coord>
+          <when>2023-10-19T15:06:30Z</when>
+          <gx:coord>-90.44936833 20.87001145 -9.78</gx:coord>
+          <when>2023-10-19T15:06:32Z</when>
+          <gx:coord>-90.44953542 20.87006673 -9.22</gx:coord>
+          <when>2023-10-19T15:06:34Z</when>
+          <gx:coord>-90.44971533 20.87012298 -9.19</gx:coord>
+          <when>2023-10-19T15:06:36Z</when>
+          <gx:coord>-90.44980853 20.87015252 -8.84</gx:coord>
+          <when>2023-10-19T15:06:37Z</when>
+          <gx:coord>-90.44998038 20.87020285 -8.76</gx:coord>
+          <when>2023-10-19T15:06:39Z</when>
+          <gx:coord>-90.45014625 20.87024721 -8.37</gx:coord>
+          <when>2023-10-19T15:06:41Z</when>
+          <gx:coord>-90.45032475 20.87030827 -8.31</gx:coord>
+          <when>2023-10-19T15:06:43Z</when>
+          <gx:coord>-90.45050609 20.87035325 -9.3</gx:coord>
+          <when>2023-10-19T15:06:45Z</when>
+          <gx:coord>-90.45068548 20.8703961 -8.88</gx:coord>
+          <when>2023-10-19T15:06:47Z</when>
+          <gx:coord>-90.45086865 20.87042321 -9.26</gx:coord>
+          <when>2023-10-19T15:06:49Z</when>
+          <gx:coord>-90.45104499 20.8704405 -10.26</gx:coord>
+          <when>2023-10-19T15:06:51Z</when>
+          <gx:coord>-90.45114092 20.87045267 -10</gx:coord>
+          <when>2023-10-19T15:06:52Z</when>
+          <gx:coord>-90.45131455 20.87047495 -8.95</gx:coord>
+          <when>2023-10-19T15:06:54Z</when>
+          <gx:coord>-90.45149657 20.87050697 -8.99</gx:coord>
+          <when>2023-10-19T15:06:56Z</when>
+          <gx:coord>-90.45167456 20.87054081 -9.34</gx:coord>
+          <when>2023-10-19T15:06:58Z</when>
+          <gx:coord>-90.45184676 20.87058802 -10.75</gx:coord>
+          <when>2023-10-19T15:07:00Z</when>
+          <gx:coord>-90.45201184 20.87063753 -11.29</gx:coord>
+          <when>2023-10-19T15:07:02Z</when>
+          <gx:coord>-90.45218605 20.87068685 -11.68</gx:coord>
+          <when>2023-10-19T15:07:04Z</when>
+          <gx:coord>-90.4522813 20.87071645 -12</gx:coord>
+          <when>2023-10-19T15:07:05Z</when>
+          <gx:coord>-90.4524604 20.87075498 -11.94</gx:coord>
+          <when>2023-10-19T15:07:07Z</when>
+          <gx:coord>-90.45263804 20.87078571 -12.33</gx:coord>
+          <when>2023-10-19T15:07:09Z</when>
+          <gx:coord>-90.45279895 20.87082306 -11.71</gx:coord>
+          <when>2023-10-19T15:07:11Z</when>
+          <gx:coord>-90.45296604 20.87086616 -12.15</gx:coord>
+          <when>2023-10-19T15:07:13Z</when>
+          <gx:coord>-90.45313709 20.87089051 -12.76</gx:coord>
+          <when>2023-10-19T15:07:15Z</when>
+          <gx:coord>-90.45323186 20.87091114 -11.97</gx:coord>
+          <when>2023-10-19T15:07:16Z</when>
+          <gx:coord>-90.45340787 20.87095719 -11.88</gx:coord>
+          <when>2023-10-19T15:07:18Z</when>
+          <gx:coord>-90.45358441 20.87098374 -12.04</gx:coord>
+          <when>2023-10-19T15:07:20Z</when>
+          <gx:coord>-90.4537637 20.87101065 -11.6</gx:coord>
+          <when>2023-10-19T15:07:22Z</when>
+          <gx:coord>-90.4539434 20.87103754 -11.4</gx:coord>
+          <when>2023-10-19T15:07:24Z</when>
+          <gx:coord>-90.45411454 20.87107064 -10.87</gx:coord>
+          <when>2023-10-19T15:07:26Z</when>
+          <gx:coord>-90.45428563 20.87111774 -11.24</gx:coord>
+          <when>2023-10-19T15:07:28Z</when>
+          <gx:coord>-90.45445069 20.87116005 -11.93</gx:coord>
+          <when>2023-10-19T15:07:30Z</when>
+          <gx:coord>-90.45462678 20.87119301 -12.13</gx:coord>
+          <when>2023-10-19T15:07:32Z</when>
+          <gx:coord>-90.45479992 20.87122512 -11.75</gx:coord>
+          <when>2023-10-19T15:07:34Z</when>
+          <gx:coord>-90.45497206 20.87126412 -11.38</gx:coord>
+          <when>2023-10-19T15:07:36Z</when>
+          <gx:coord>-90.45513655 20.87130233 -11.54</gx:coord>
+          <when>2023-10-19T15:07:38Z</when>
+          <gx:coord>-90.45530359 20.87133815 -12.17</gx:coord>
+          <when>2023-10-19T15:07:40Z</when>
+          <gx:coord>-90.45547225 20.87137884 -12.27</gx:coord>
+          <when>2023-10-19T15:07:42Z</when>
+          <gx:coord>-90.45564718 20.87142119 -11.77</gx:coord>
+          <when>2023-10-19T15:07:44Z</when>
+          <gx:coord>-90.45582336 20.87146124 -11.23</gx:coord>
+          <when>2023-10-19T15:07:46Z</when>
+          <gx:coord>-90.45598873 20.87151886 -10.69</gx:coord>
+          <when>2023-10-19T15:07:48Z</when>
+          <gx:coord>-90.45615437 20.87158271 -10.56</gx:coord>
+          <when>2023-10-19T15:07:50Z</when>
+          <gx:coord>-90.45631627 20.8716447 -11.07</gx:coord>
+          <when>2023-10-19T15:07:52Z</when>
+          <gx:coord>-90.45647577 20.87171136 -11.54</gx:coord>
+          <when>2023-10-19T15:07:54Z</when>
+          <gx:coord>-90.45663129 20.87177352 -11.75</gx:coord>
+          <when>2023-10-19T15:07:56Z</when>
+          <gx:coord>-90.45678828 20.87184031 -11.25</gx:coord>
+          <when>2023-10-19T15:07:58Z</when>
+          <gx:coord>-90.45694325 20.87190889 -10.72</gx:coord>
+          <when>2023-10-19T15:08:00Z</when>
+          <gx:coord>-90.45709648 20.87197055 -10.55</gx:coord>
+          <when>2023-10-19T15:08:02Z</when>
+          <gx:coord>-90.45726533 20.87203251 -10.94</gx:coord>
+          <when>2023-10-19T15:08:04Z</when>
+          <gx:coord>-90.45743229 20.87208901 -11</gx:coord>
+          <when>2023-10-19T15:08:06Z</when>
+          <gx:coord>-90.45759158 20.87213547 -10.98</gx:coord>
+          <when>2023-10-19T15:08:08Z</when>
+          <gx:coord>-90.45775388 20.87218652 -10.93</gx:coord>
+          <when>2023-10-19T15:08:10Z</when>
+          <gx:coord>-90.4579175 20.87223008 -10.17</gx:coord>
+          <when>2023-10-19T15:08:12Z</when>
+          <gx:coord>-90.45809309 20.87227434 -9.67</gx:coord>
+          <when>2023-10-19T15:08:14Z</when>
+          <gx:coord>-90.45825866 20.87230695 -10.74</gx:coord>
+          <when>2023-10-19T15:08:16Z</when>
+          <gx:coord>-90.45841274 20.87235124 -11.11</gx:coord>
+          <when>2023-10-19T15:08:18Z</when>
+          <gx:coord>-90.45858226 20.87239847 -10.87</gx:coord>
+          <when>2023-10-19T15:08:20Z</when>
+          <gx:coord>-90.4587376 20.87245169 -11.68</gx:coord>
+          <when>2023-10-19T15:08:22Z</when>
+          <gx:coord>-90.458898 20.87249789 -12.2</gx:coord>
+          <when>2023-10-19T15:08:24Z</when>
+          <gx:coord>-90.45905345 20.87254519 -12.34</gx:coord>
+          <when>2023-10-19T15:08:26Z</when>
+          <gx:coord>-90.45921722 20.87261342 -11.84</gx:coord>
+          <when>2023-10-19T15:08:28Z</when>
+          <gx:coord>-90.45936849 20.87268906 -12.34</gx:coord>
+          <when>2023-10-19T15:08:30Z</when>
+          <gx:coord>-90.45952869 20.87276448 -12.66</gx:coord>
+          <when>2023-10-19T15:08:32Z</when>
+          <gx:coord>-90.45969295 20.87283899 -12.08</gx:coord>
+          <when>2023-10-19T15:08:34Z</when>
+          <gx:coord>-90.45985167 20.87290821 -11.3</gx:coord>
+          <when>2023-10-19T15:08:36Z</when>
+          <gx:coord>-90.4600148 20.87297825 -11.4</gx:coord>
+          <when>2023-10-19T15:08:38Z</when>
+          <gx:coord>-90.46018085 20.87304925 -10.54</gx:coord>
+          <when>2023-10-19T15:08:40Z</when>
+          <gx:coord>-90.46034309 20.87310203 -11.39</gx:coord>
+          <when>2023-10-19T15:08:42Z</when>
+          <gx:coord>-90.46050397 20.87315918 -11.28</gx:coord>
+          <when>2023-10-19T15:08:44Z</when>
+          <gx:coord>-90.46066216 20.87321687 -12.47</gx:coord>
+          <when>2023-10-19T15:08:46Z</when>
+          <gx:coord>-90.46082415 20.87328156 -12.55</gx:coord>
+          <when>2023-10-19T15:08:48Z</when>
+          <gx:coord>-90.46098423 20.87334003 -12.42</gx:coord>
+          <when>2023-10-19T15:08:50Z</when>
+          <gx:coord>-90.46115167 20.87340139 -12.4</gx:coord>
+          <when>2023-10-19T15:08:52Z</when>
+          <gx:coord>-90.46131241 20.87345164 -12.88</gx:coord>
+          <when>2023-10-19T15:08:54Z</when>
+          <gx:coord>-90.46147032 20.87351094 -14.05</gx:coord>
+          <when>2023-10-19T15:08:56Z</when>
+          <gx:coord>-90.4616344 20.87358034 -13.92</gx:coord>
+          <when>2023-10-19T15:08:58Z</when>
+          <gx:coord>-90.46179856 20.87364951 -12.95</gx:coord>
+          <when>2023-10-19T15:09:00Z</when>
+          <gx:coord>-90.46195899 20.87371774 -12.56</gx:coord>
+          <when>2023-10-19T15:09:02Z</when>
+          <gx:coord>-90.46211972 20.87377609 -11.77</gx:coord>
+          <when>2023-10-19T15:09:04Z</when>
+          <gx:coord>-90.46227324 20.87384024 -11.77</gx:coord>
+          <when>2023-10-19T15:09:06Z</when>
+          <gx:coord>-90.46244081 20.87391 -10.98</gx:coord>
+          <when>2023-10-19T15:09:08Z</when>
+          <gx:coord>-90.4626139 20.8739677 -10.66</gx:coord>
+          <when>2023-10-19T15:09:10Z</when>
+          <gx:coord>-90.46278764 20.87403408 -10.58</gx:coord>
+          <when>2023-10-19T15:09:12Z</when>
+          <gx:coord>-90.46295476 20.87410232 -10.29</gx:coord>
+          <when>2023-10-19T15:09:14Z</when>
+          <gx:coord>-90.46312003 20.87416876 -10.69</gx:coord>
+          <when>2023-10-19T15:09:16Z</when>
+          <gx:coord>-90.46328873 20.87423479 -10.33</gx:coord>
+          <when>2023-10-19T15:09:18Z</when>
+          <gx:coord>-90.4634568 20.874295 -10.29</gx:coord>
+          <when>2023-10-19T15:09:20Z</when>
+          <gx:coord>-90.46362365 20.87436278 -9.69</gx:coord>
+          <when>2023-10-19T15:09:22Z</when>
+          <gx:coord>-90.46378726 20.87442712 -9.38</gx:coord>
+          <when>2023-10-19T15:09:24Z</when>
+          <gx:coord>-90.46395435 20.87448349 -9.29</gx:coord>
+          <when>2023-10-19T15:09:26Z</when>
+          <gx:coord>-90.46413181 20.87452687 -9.87</gx:coord>
+          <when>2023-10-19T15:09:28Z</when>
+          <gx:coord>-90.46430025 20.87457265 -10.07</gx:coord>
+          <when>2023-10-19T15:09:30Z</when>
+          <gx:coord>-90.46447594 20.87462058 -10.61</gx:coord>
+          <when>2023-10-19T15:09:32Z</when>
+          <gx:coord>-90.46457097 20.87464644 -10.8</gx:coord>
+          <when>2023-10-19T15:09:33Z</when>
+          <gx:coord>-90.46472767 20.87469858 -11.94</gx:coord>
+          <when>2023-10-19T15:09:35Z</when>
+          <gx:coord>-90.46490179 20.87474582 -11.41</gx:coord>
+          <when>2023-10-19T15:09:37Z</when>
+          <gx:coord>-90.46507381 20.87479164 -11.1</gx:coord>
+          <when>2023-10-19T15:09:39Z</when>
+          <gx:coord>-90.46524538 20.87484017 -10.78</gx:coord>
+          <when>2023-10-19T15:09:41Z</when>
+          <gx:coord>-90.46541916 20.87489311 -11.04</gx:coord>
+          <when>2023-10-19T15:09:43Z</when>
+          <gx:coord>-90.46559435 20.87494548 -11.43</gx:coord>
+          <when>2023-10-19T15:09:45Z</when>
+          <gx:coord>-90.46577067 20.87497596 -11.85</gx:coord>
+          <when>2023-10-19T15:09:47Z</when>
+          <gx:coord>-90.46595401 20.87501365 -11.33</gx:coord>
+          <when>2023-10-19T15:09:49Z</when>
+          <gx:coord>-90.4661237 20.87505677 -11.23</gx:coord>
+          <when>2023-10-19T15:09:51Z</when>
+          <gx:coord>-90.46629974 20.87509602 -11.27</gx:coord>
+          <when>2023-10-19T15:09:53Z</when>
+          <gx:coord>-90.46647515 20.87513994 -11.45</gx:coord>
+          <when>2023-10-19T15:09:55Z</when>
+          <gx:coord>-90.46664471 20.87519226 -11.24</gx:coord>
+          <when>2023-10-19T15:09:57Z</when>
+          <gx:coord>-90.46681594 20.87524894 -11.15</gx:coord>
+          <when>2023-10-19T15:09:59Z</when>
+          <gx:coord>-90.46698336 20.87530788 -10.77</gx:coord>
+          <when>2023-10-19T15:10:01Z</when>
+          <gx:coord>-90.46714659 20.87536359 -10.37</gx:coord>
+          <when>2023-10-19T15:10:03Z</when>
+          <gx:coord>-90.46731407 20.87541874 -10.1</gx:coord>
+          <when>2023-10-19T15:10:05Z</when>
+          <gx:coord>-90.46747432 20.87546293 -10.26</gx:coord>
+          <when>2023-10-19T15:10:07Z</when>
+          <gx:coord>-90.4676423 20.87550686 -10.97</gx:coord>
+          <when>2023-10-19T15:10:09Z</when>
+          <gx:coord>-90.46780809 20.87556024 -11.43</gx:coord>
+          <when>2023-10-19T15:10:11Z</when>
+          <gx:coord>-90.46797235 20.87560984 -10.89</gx:coord>
+          <when>2023-10-19T15:10:13Z</when>
+          <gx:coord>-90.46812679 20.87566219 -10.94</gx:coord>
+          <when>2023-10-19T15:10:15Z</when>
+          <gx:coord>-90.46830153 20.8757128 -9.98</gx:coord>
+          <when>2023-10-19T15:10:17Z</when>
+          <gx:coord>-90.46847358 20.87576412 -9.72</gx:coord>
+          <when>2023-10-19T15:10:19Z</when>
+          <gx:coord>-90.46864168 20.87581241 -9.67</gx:coord>
+          <when>2023-10-19T15:10:21Z</when>
+          <gx:coord>-90.46881527 20.87585679 -9.26</gx:coord>
+          <when>2023-10-19T15:10:23Z</when>
+          <gx:coord>-90.46897193 20.87590535 -9.25</gx:coord>
+          <when>2023-10-19T15:10:25Z</when>
+          <gx:coord>-90.46913436 20.87596477 -9.42</gx:coord>
+          <when>2023-10-19T15:10:27Z</when>
+          <gx:coord>-90.46938416 20.87607149 -8.25</gx:coord>
+          <when>2023-10-19T15:10:30Z</when>
+          <gx:coord>-90.46955679 20.87613546 -8.18</gx:coord>
+          <when>2023-10-19T15:10:32Z</when>
+          <gx:coord>-90.46972282 20.87618371 -7.91</gx:coord>
+          <when>2023-10-19T15:10:34Z</when>
+          <gx:coord>-90.46988606 20.87621386 -8.04</gx:coord>
+          <when>2023-10-19T15:10:36Z</when>
+          <gx:coord>-90.47006282 20.87625416 -8.43</gx:coord>
+          <when>2023-10-19T15:10:38Z</when>
+          <gx:coord>-90.47022089 20.87629401 -9.25</gx:coord>
+          <when>2023-10-19T15:10:40Z</when>
+          <gx:coord>-90.47038873 20.87633694 -9.36</gx:coord>
+          <when>2023-10-19T15:10:42Z</when>
+          <gx:coord>-90.47055509 20.87637564 -9.35</gx:coord>
+          <when>2023-10-19T15:10:44Z</when>
+          <gx:coord>-90.4707232 20.87641282 -10.22</gx:coord>
+          <when>2023-10-19T15:10:46Z</when>
+          <gx:coord>-90.47089392 20.87645251 -10.12</gx:coord>
+          <when>2023-10-19T15:10:48Z</when>
+          <gx:coord>-90.47105167 20.87649136 -10.66</gx:coord>
+          <when>2023-10-19T15:10:50Z</when>
+          <gx:coord>-90.47122269 20.8765286 -10.05</gx:coord>
+          <when>2023-10-19T15:10:52Z</when>
+          <gx:coord>-90.47138539 20.87657039 -10.2</gx:coord>
+          <when>2023-10-19T15:10:54Z</when>
+          <gx:coord>-90.47157049 20.87661148 -10.09</gx:coord>
+          <when>2023-10-19T15:10:56Z</when>
+          <gx:coord>-90.47173744 20.87665158 -9.69</gx:coord>
+          <when>2023-10-19T15:10:58Z</when>
+          <gx:coord>-90.4719044 20.87669763 -10.43</gx:coord>
+          <when>2023-10-19T15:11:00Z</when>
+          <gx:coord>-90.47207486 20.87672667 -10.27</gx:coord>
+          <when>2023-10-19T15:11:02Z</when>
+          <gx:coord>-90.47223662 20.87677289 -10.43</gx:coord>
+          <when>2023-10-19T15:11:04Z</when>
+          <gx:coord>-90.47239626 20.87682941 -10.47</gx:coord>
+          <when>2023-10-19T15:11:06Z</when>
+          <gx:coord>-90.47256524 20.87688059 -11.19</gx:coord>
+          <when>2023-10-19T15:11:08Z</when>
+          <gx:coord>-90.47273046 20.87693282 -11.44</gx:coord>
+          <when>2023-10-19T15:11:10Z</when>
+          <gx:coord>-90.47289142 20.87698692 -10.8</gx:coord>
+          <when>2023-10-19T15:11:12Z</when>
+          <gx:coord>-90.47305774 20.87703313 -11.21</gx:coord>
+          <when>2023-10-19T15:11:14Z</when>
+          <gx:coord>-90.47323619 20.87707734 -10.44</gx:coord>
+          <when>2023-10-19T15:11:16Z</when>
+          <gx:coord>-90.47333191 20.87709723 -10.05</gx:coord>
+          <when>2023-10-19T15:11:17Z</when>
+          <gx:coord>-90.47351127 20.87714137 -9.89</gx:coord>
+          <when>2023-10-19T15:11:19Z</when>
+          <gx:coord>-90.47367745 20.87719219 -9.09</gx:coord>
+          <when>2023-10-19T15:11:21Z</when>
+          <gx:coord>-90.47382961 20.87725369 -9.97</gx:coord>
+          <when>2023-10-19T15:11:23Z</when>
+          <gx:coord>-90.47398158 20.87732225 -10</gx:coord>
+          <when>2023-10-19T15:11:25Z</when>
+          <gx:coord>-90.4741334 20.87739168 -9.53</gx:coord>
+          <when>2023-10-19T15:11:27Z</when>
+          <gx:coord>-90.47429377 20.87745518 -10.13</gx:coord>
+          <when>2023-10-19T15:11:29Z</when>
+          <gx:coord>-90.474463 20.87751313 -9.87</gx:coord>
+          <when>2023-10-19T15:11:31Z</when>
+          <gx:coord>-90.47462924 20.87755092 -9.25</gx:coord>
+          <when>2023-10-19T15:11:33Z</when>
+          <gx:coord>-90.47479996 20.87758275 -9.15</gx:coord>
+          <when>2023-10-19T15:11:35Z</when>
+          <gx:coord>-90.47498819 20.87760284 -9.1</gx:coord>
+          <when>2023-10-19T15:11:37Z</when>
+          <gx:coord>-90.47515384 20.87760784 -9.73</gx:coord>
+          <when>2023-10-19T15:11:39Z</when>
+          <gx:coord>-90.47532511 20.87762142 -9.48</gx:coord>
+          <when>2023-10-19T15:11:41Z</when>
+          <gx:coord>-90.47548935 20.87764912 -9.35</gx:coord>
+          <when>2023-10-19T15:11:43Z</when>
+          <gx:coord>-90.47564811 20.87769131 -9.59</gx:coord>
+          <when>2023-10-19T15:11:45Z</when>
+          <gx:coord>-90.47580609 20.87773212 -9.65</gx:coord>
+          <when>2023-10-19T15:11:47Z</when>
+          <gx:coord>-90.47595843 20.87778241 -9.41</gx:coord>
+          <when>2023-10-19T15:11:49Z</when>
+          <gx:coord>-90.47612075 20.87782241 -8.76</gx:coord>
+          <when>2023-10-19T15:11:51Z</when>
+          <gx:coord>-90.47627699 20.87786248 -8.51</gx:coord>
+          <when>2023-10-19T15:11:53Z</when>
+          <gx:coord>-90.47643248 20.87789743 -7.57</gx:coord>
+          <when>2023-10-19T15:11:55Z</when>
+          <gx:coord>-90.47656492 20.8779228 -9.69</gx:coord>
+          <when>2023-10-19T15:11:57Z</when>
+          <gx:coord>-90.47673291 20.87795992 -10.02</gx:coord>
+          <when>2023-10-19T15:11:59Z</when>
+          <gx:coord>-90.47688686 20.87799914 -10.94</gx:coord>
+          <when>2023-10-19T15:12:01Z</when>
+          <gx:coord>-90.47704233 20.87804547 -11.56</gx:coord>
+          <when>2023-10-19T15:12:03Z</when>
+          <gx:coord>-90.47721296 20.87808079 -10.93</gx:coord>
+          <when>2023-10-19T15:12:05Z</when>
+          <gx:coord>-90.47737741 20.87812603 -11.23</gx:coord>
+          <when>2023-10-19T15:12:07Z</when>
+          <gx:coord>-90.47753959 20.87817312 -10.78</gx:coord>
+          <when>2023-10-19T15:12:09Z</when>
+          <gx:coord>-90.47770542 20.87822166 -11.04</gx:coord>
+          <when>2023-10-19T15:12:11Z</when>
+          <gx:coord>-90.47786845 20.87826714 -11.89</gx:coord>
+          <when>2023-10-19T15:12:13Z</when>
+          <gx:coord>-90.4780332 20.87830748 -12.24</gx:coord>
+          <when>2023-10-19T15:12:15Z</when>
+          <gx:coord>-90.4782009 20.87834004 -11.8</gx:coord>
+          <when>2023-10-19T15:12:17Z</when>
+          <gx:coord>-90.47836437 20.87837961 -11.12</gx:coord>
+          <when>2023-10-19T15:12:19Z</when>
+          <gx:coord>-90.47852336 20.87842466 -10.91</gx:coord>
+          <when>2023-10-19T15:12:21Z</when>
+          <gx:coord>-90.47867953 20.87847932 -11.34</gx:coord>
+          <when>2023-10-19T15:12:23Z</when>
+          <gx:coord>-90.47883669 20.87852473 -11.45</gx:coord>
+          <when>2023-10-19T15:12:25Z</when>
+          <gx:coord>-90.47900158 20.87857121 -10.8</gx:coord>
+          <when>2023-10-19T15:12:27Z</when>
+          <gx:coord>-90.47915449 20.87861503 -11.11</gx:coord>
+          <when>2023-10-19T15:12:29Z</when>
+          <gx:coord>-90.47930789 20.87865727 -10.73</gx:coord>
+          <when>2023-10-19T15:12:31Z</when>
+          <gx:coord>-90.47946644 20.87870304 -10.2</gx:coord>
+          <when>2023-10-19T15:12:33Z</when>
+          <gx:coord>-90.4796126 20.87875585 -10.47</gx:coord>
+          <when>2023-10-19T15:12:35Z</when>
+          <gx:coord>-90.47976744 20.87880956 -10.89</gx:coord>
+          <when>2023-10-19T15:12:37Z</when>
+          <gx:coord>-90.47992452 20.87885688 -10.97</gx:coord>
+          <when>2023-10-19T15:12:39Z</when>
+          <gx:coord>-90.48008276 20.87890778 -10.57</gx:coord>
+          <when>2023-10-19T15:12:41Z</when>
+          <gx:coord>-90.48025828 20.87895074 -9.27</gx:coord>
+          <when>2023-10-19T15:12:43Z</when>
+          <gx:coord>-90.48042245 20.87898716 -9.59</gx:coord>
+          <when>2023-10-19T15:12:45Z</when>
+          <gx:coord>-90.4805868 20.87903043 -9.53</gx:coord>
+          <when>2023-10-19T15:12:47Z</when>
+          <gx:coord>-90.48075203 20.87907748 -9.58</gx:coord>
+          <when>2023-10-19T15:12:49Z</when>
+          <gx:coord>-90.48091252 20.87912318 -9.66</gx:coord>
+          <when>2023-10-19T15:12:51Z</when>
+          <gx:coord>-90.48106941 20.87917432 -9.39</gx:coord>
+          <when>2023-10-19T15:12:53Z</when>
+          <gx:coord>-90.48123629 20.87921663 -9.26</gx:coord>
+          <when>2023-10-19T15:12:55Z</when>
+          <gx:coord>-90.48139253 20.87924453 -8.5</gx:coord>
+          <when>2023-10-19T15:12:57Z</when>
+          <gx:coord>-90.48155155 20.8792658 -7.96</gx:coord>
+          <when>2023-10-19T15:12:59Z</when>
+          <gx:coord>-90.48171285 20.87929264 -7.9</gx:coord>
+          <when>2023-10-19T15:13:01Z</when>
+          <gx:coord>-90.48187389 20.87933323 -8.17</gx:coord>
+          <when>2023-10-19T15:13:03Z</when>
+          <gx:coord>-90.48203393 20.87936808 -8</gx:coord>
+          <when>2023-10-19T15:13:05Z</when>
+          <gx:coord>-90.48219676 20.87940789 -8.41</gx:coord>
+          <when>2023-10-19T15:13:07Z</when>
+          <gx:coord>-90.4823595 20.87945057 -7.92</gx:coord>
+          <when>2023-10-19T15:13:09Z</when>
+          <gx:coord>-90.48251414 20.87949744 -8.63</gx:coord>
+          <when>2023-10-19T15:13:11Z</when>
+          <gx:coord>-90.48267181 20.87953322 -9.51</gx:coord>
+          <when>2023-10-19T15:13:13Z</when>
+          <gx:coord>-90.48284174 20.87955081 -9.23</gx:coord>
+          <when>2023-10-19T15:13:15Z</when>
+          <gx:coord>-90.48299594 20.87956712 -8.24</gx:coord>
+          <when>2023-10-19T15:13:17Z</when>
+          <gx:coord>-90.48315498 20.87960174 -9.18</gx:coord>
+          <when>2023-10-19T15:13:19Z</when>
+          <gx:coord>-90.48332823 20.87963973 -8.67</gx:coord>
+          <when>2023-10-19T15:13:21Z</when>
+          <gx:coord>-90.48349168 20.87968405 -9.64</gx:coord>
+          <when>2023-10-19T15:13:23Z</when>
+          <gx:coord>-90.48365829 20.87972077 -9.49</gx:coord>
+          <when>2023-10-19T15:13:25Z</when>
+          <gx:coord>-90.48382689 20.87975949 -9.2</gx:coord>
+          <when>2023-10-19T15:13:27Z</when>
+          <gx:coord>-90.48399119 20.87979483 -8.79</gx:coord>
+          <when>2023-10-19T15:13:29Z</when>
+          <gx:coord>-90.48415391 20.87983441 -9.15</gx:coord>
+          <when>2023-10-19T15:13:31Z</when>
+          <gx:coord>-90.48431326 20.87987736 -9.2</gx:coord>
+          <when>2023-10-19T15:13:33Z</when>
+          <gx:coord>-90.484461 20.87993075 -8.81</gx:coord>
+          <when>2023-10-19T15:13:35Z</when>
+          <gx:coord>-90.48460842 20.8799782 -8.93</gx:coord>
+          <when>2023-10-19T15:13:37Z</when>
+          <gx:coord>-90.48476872 20.88002325 -8.78</gx:coord>
+          <when>2023-10-19T15:13:39Z</when>
+          <gx:coord>-90.48492869 20.8800715 -10.08</gx:coord>
+          <when>2023-10-19T15:13:41Z</when>
+          <gx:coord>-90.48508251 20.88012128 -10.13</gx:coord>
+          <when>2023-10-19T15:13:43Z</when>
+          <gx:coord>-90.48525143 20.88017408 -9.81</gx:coord>
+          <when>2023-10-19T15:13:45Z</when>
+          <gx:coord>-90.48541684 20.88023239 -10.44</gx:coord>
+          <when>2023-10-19T15:13:47Z</when>
+          <gx:coord>-90.48558431 20.88028561 -9.44</gx:coord>
+          <when>2023-10-19T15:13:49Z</when>
+          <gx:coord>-90.4857493 20.88034342 -9.53</gx:coord>
+          <when>2023-10-19T15:13:51Z</when>
+          <gx:coord>-90.48591245 20.88041489 -9.28</gx:coord>
+          <when>2023-10-19T15:13:53Z</when>
+          <gx:coord>-90.48606919 20.88045534 -9.7</gx:coord>
+          <when>2023-10-19T15:13:55Z</when>
+          <gx:coord>-90.48622232 20.88050278 -9.6</gx:coord>
+          <when>2023-10-19T15:13:57Z</when>
+          <gx:coord>-90.48637798 20.88055338 -9.91</gx:coord>
+          <when>2023-10-19T15:13:59Z</when>
+          <gx:coord>-90.48653525 20.88060511 -9.6</gx:coord>
+          <when>2023-10-19T15:14:01Z</when>
+          <gx:coord>-90.48668641 20.88063479 -10.11</gx:coord>
+          <when>2023-10-19T15:14:03Z</when>
+          <gx:coord>-90.48684669 20.88066597 -10.15</gx:coord>
+          <when>2023-10-19T15:14:05Z</when>
+          <gx:coord>-90.48699913 20.88070567 -10.29</gx:coord>
+          <when>2023-10-19T15:14:07Z</when>
+          <gx:coord>-90.48713899 20.88075068 -9.8</gx:coord>
+          <when>2023-10-19T15:14:09Z</when>
+          <gx:coord>-90.48728003 20.88078792 -10.89</gx:coord>
+          <when>2023-10-19T15:14:11Z</when>
+          <gx:coord>-90.48742839 20.88085101 -10</gx:coord>
+          <when>2023-10-19T15:14:13Z</when>
+          <gx:coord>-90.48757899 20.88090636 -8.97</gx:coord>
+          <when>2023-10-19T15:14:15Z</when>
+          <gx:coord>-90.48772921 20.88096031 -9.12</gx:coord>
+          <when>2023-10-19T15:14:17Z</when>
+          <gx:coord>-90.48788596 20.88102129 -8.55</gx:coord>
+          <when>2023-10-19T15:14:19Z</when>
+          <gx:coord>-90.48803662 20.88107969 -8.9</gx:coord>
+          <when>2023-10-19T15:14:21Z</when>
+          <gx:coord>-90.48818924 20.88111901 -8.74</gx:coord>
+          <when>2023-10-19T15:14:23Z</when>
+          <gx:coord>-90.48834494 20.8811525 -8.66</gx:coord>
+          <when>2023-10-19T15:14:25Z</when>
+          <gx:coord>-90.48849943 20.8811975 -9</gx:coord>
+          <when>2023-10-19T15:14:27Z</when>
+          <gx:coord>-90.48865636 20.88124675 -8.59</gx:coord>
+          <when>2023-10-19T15:14:29Z</when>
+          <gx:coord>-90.48881056 20.88130016 -8.43</gx:coord>
+          <when>2023-10-19T15:14:31Z</when>
+          <gx:coord>-90.48896228 20.88134649 -8.44</gx:coord>
+          <when>2023-10-19T15:14:33Z</when>
+          <gx:coord>-90.48910481 20.88140266 -8.15</gx:coord>
+          <when>2023-10-19T15:14:35Z</when>
+          <gx:coord>-90.48924806 20.88145697 -7.56</gx:coord>
+          <when>2023-10-19T15:14:37Z</when>
+          <gx:coord>-90.48939638 20.88151092 -8.06</gx:coord>
+          <when>2023-10-19T15:14:39Z</when>
+          <gx:coord>-90.48955798 20.88157596 -8.01</gx:coord>
+          <when>2023-10-19T15:14:41Z</when>
+          <gx:coord>-90.48972058 20.88161844 -7.81</gx:coord>
+          <when>2023-10-19T15:14:43Z</when>
+          <gx:coord>-90.48987293 20.88165754 -7.73</gx:coord>
+          <when>2023-10-19T15:14:45Z</when>
+          <gx:coord>-90.49003282 20.8816828 -7.79</gx:coord>
+          <when>2023-10-19T15:14:47Z</when>
+          <gx:coord>-90.49017991 20.88170805 -7.35</gx:coord>
+          <when>2023-10-19T15:14:49Z</when>
+          <gx:coord>-90.49034145 20.88173445 -8.08</gx:coord>
+          <when>2023-10-19T15:14:51Z</when>
+          <gx:coord>-90.49050092 20.88176851 -8.2</gx:coord>
+          <when>2023-10-19T15:14:53Z</when>
+          <gx:coord>-90.49066713 20.88180723 -7.79</gx:coord>
+          <when>2023-10-19T15:14:55Z</when>
+          <gx:coord>-90.49083389 20.88185401 -7.09</gx:coord>
+          <when>2023-10-19T15:14:57Z</when>
+          <gx:coord>-90.49099369 20.88189688 -6.17</gx:coord>
+          <when>2023-10-19T15:14:59Z</when>
+          <gx:coord>-90.4911589 20.88194522 -5.41</gx:coord>
+          <when>2023-10-19T15:15:01Z</when>
+          <gx:coord>-90.49130752 20.88199843 -5.35</gx:coord>
+          <when>2023-10-19T15:15:03Z</when>
+          <gx:coord>-90.49145905 20.88204976 -4.91</gx:coord>
+          <when>2023-10-19T15:15:05Z</when>
+          <gx:coord>-90.49160751 20.88209843 -5.54</gx:coord>
+          <when>2023-10-19T15:15:07Z</when>
+          <gx:coord>-90.49176423 20.88214839 -4.54</gx:coord>
+          <when>2023-10-19T15:15:09Z</when>
+          <gx:coord>-90.4919005 20.8821961 -5.24</gx:coord>
+          <when>2023-10-19T15:15:11Z</when>
+          <gx:coord>-90.49204557 20.88224066 -5.94</gx:coord>
+          <when>2023-10-19T15:15:13Z</when>
+          <gx:coord>-90.4922027 20.88227777 -6.32</gx:coord>
+          <when>2023-10-19T15:15:15Z</when>
+          <gx:coord>-90.49235882 20.8823108 -6.1</gx:coord>
+          <when>2023-10-19T15:15:17Z</when>
+          <gx:coord>-90.49250746 20.88234352 -5.54</gx:coord>
+          <when>2023-10-19T15:15:19Z</when>
+          <gx:coord>-90.49265399 20.88238604 -5.25</gx:coord>
+          <when>2023-10-19T15:15:21Z</when>
+          <gx:coord>-90.49280871 20.88244357 -4.79</gx:coord>
+          <when>2023-10-19T15:15:23Z</when>
+          <gx:coord>-90.49295562 20.88249223 -5.45</gx:coord>
+          <when>2023-10-19T15:15:25Z</when>
+          <gx:coord>-90.49310194 20.88255388 -6.06</gx:coord>
+          <when>2023-10-19T15:15:27Z</when>
+          <gx:coord>-90.49324913 20.88261722 -6.41</gx:coord>
+          <when>2023-10-19T15:15:29Z</when>
+          <gx:coord>-90.49339202 20.88267179 -6.59</gx:coord>
+          <when>2023-10-19T15:15:31Z</when>
+          <gx:coord>-90.49353551 20.88272013 -6.91</gx:coord>
+          <when>2023-10-19T15:15:33Z</when>
+          <gx:coord>-90.49368081 20.88276383 -6.66</gx:coord>
+          <when>2023-10-19T15:15:35Z</when>
+          <gx:coord>-90.49382829 20.88280806 -6.94</gx:coord>
+          <when>2023-10-19T15:15:37Z</when>
+          <gx:coord>-90.49398485 20.88283977 -6.7</gx:coord>
+          <when>2023-10-19T15:15:39Z</when>
+          <gx:coord>-90.49415033 20.88286264 -6.85</gx:coord>
+          <when>2023-10-19T15:15:41Z</when>
+          <gx:coord>-90.49431296 20.88289488 -6.48</gx:coord>
+          <when>2023-10-19T15:15:43Z</when>
+          <gx:coord>-90.49447078 20.88294377 -6.32</gx:coord>
+          <when>2023-10-19T15:15:45Z</when>
+          <gx:coord>-90.49463192 20.88298199 -6.23</gx:coord>
+          <when>2023-10-19T15:15:47Z</when>
+          <gx:coord>-90.4947949 20.88302198 -6.28</gx:coord>
+          <when>2023-10-19T15:15:49Z</when>
+          <gx:coord>-90.49496272 20.88305881 -7.06</gx:coord>
+          <when>2023-10-19T15:15:51Z</when>
+          <gx:coord>-90.49512635 20.88309407 -6.83</gx:coord>
+          <when>2023-10-19T15:15:53Z</when>
+          <gx:coord>-90.49529194 20.88313103 -6.95</gx:coord>
+          <when>2023-10-19T15:15:55Z</when>
+          <gx:coord>-90.49544994 20.88317197 -7.37</gx:coord>
+          <when>2023-10-19T15:15:57Z</when>
+          <gx:coord>-90.49559972 20.88321788 -7.84</gx:coord>
+          <when>2023-10-19T15:15:59Z</when>
+          <gx:coord>-90.49575699 20.88325977 -7.69</gx:coord>
+          <when>2023-10-19T15:16:01Z</when>
+          <gx:coord>-90.4959169 20.88330134 -8.29</gx:coord>
+          <when>2023-10-19T15:16:03Z</when>
+          <gx:coord>-90.49607301 20.8833553 -8.18</gx:coord>
+          <when>2023-10-19T15:16:05Z</when>
+          <gx:coord>-90.49622808 20.88342172 -8.45</gx:coord>
+          <when>2023-10-19T15:16:07Z</when>
+          <gx:coord>-90.49638144 20.88348275 -9.15</gx:coord>
+          <when>2023-10-19T15:16:09Z</when>
+          <gx:coord>-90.49653163 20.88353949 -9.01</gx:coord>
+          <when>2023-10-19T15:16:11Z</when>
+          <gx:coord>-90.49668347 20.88359146 -8.85</gx:coord>
+          <when>2023-10-19T15:16:13Z</when>
+          <gx:coord>-90.4968368 20.88363544 -8.44</gx:coord>
+          <when>2023-10-19T15:16:15Z</when>
+          <gx:coord>-90.49698001 20.88368678 -8.19</gx:coord>
+          <when>2023-10-19T15:16:17Z</when>
+          <gx:coord>-90.49712373 20.88373537 -8.83</gx:coord>
+          <when>2023-10-19T15:16:19Z</when>
+          <gx:coord>-90.4972733 20.88377906 -8.49</gx:coord>
+          <when>2023-10-19T15:16:21Z</when>
+          <gx:coord>-90.49741997 20.88383769 -8.38</gx:coord>
+          <when>2023-10-19T15:16:23Z</when>
+          <gx:coord>-90.49756743 20.88388755 -7.93</gx:coord>
+          <when>2023-10-19T15:16:25Z</when>
+          <gx:coord>-90.49770803 20.88393516 -8.46</gx:coord>
+          <when>2023-10-19T15:16:27Z</when>
+          <gx:coord>-90.49785546 20.88398439 -8.96</gx:coord>
+          <when>2023-10-19T15:16:29Z</when>
+          <gx:coord>-90.49801359 20.88402672 -8.5</gx:coord>
+          <when>2023-10-19T15:16:31Z</when>
+          <gx:coord>-90.49816747 20.88406049 -8.85</gx:coord>
+          <when>2023-10-19T15:16:33Z</when>
+          <gx:coord>-90.49832184 20.88409674 -9.1</gx:coord>
+          <when>2023-10-19T15:16:35Z</when>
+          <gx:coord>-90.4984813 20.88413241 -9.17</gx:coord>
+          <when>2023-10-19T15:16:37Z</when>
+          <gx:coord>-90.49863005 20.88417534 -8.94</gx:coord>
+          <when>2023-10-19T15:16:39Z</when>
+          <gx:coord>-90.4987849 20.88423134 -8.75</gx:coord>
+          <when>2023-10-19T15:16:41Z</when>
+          <gx:coord>-90.49893059 20.8842893 -8.81</gx:coord>
+          <when>2023-10-19T15:16:43Z</when>
+          <gx:coord>-90.49908264 20.88434317 -9.4</gx:coord>
+          <when>2023-10-19T15:16:45Z</when>
+          <gx:coord>-90.49922546 20.88439271 -9.86</gx:coord>
+          <when>2023-10-19T15:16:47Z</when>
+          <gx:coord>-90.49937602 20.88443199 -10.87</gx:coord>
+          <when>2023-10-19T15:16:49Z</when>
+          <gx:coord>-90.4995178 20.8844785 -11.03</gx:coord>
+          <when>2023-10-19T15:16:51Z</when>
+          <gx:coord>-90.49965376 20.8845273 -10.22</gx:coord>
+          <when>2023-10-19T15:16:53Z</when>
+          <gx:coord>-90.49981429 20.88458136 -9.84</gx:coord>
+          <when>2023-10-19T15:16:55Z</when>
+          <gx:coord>-90.49996993 20.88463619 -10.01</gx:coord>
+          <when>2023-10-19T15:16:57Z</when>
+          <gx:coord>-90.50011454 20.8846882 -9.68</gx:coord>
+          <when>2023-10-19T15:16:59Z</when>
+          <gx:coord>-90.5002629 20.88473937 -9.6</gx:coord>
+          <when>2023-10-19T15:17:01Z</when>
+          <gx:coord>-90.50041487 20.88477502 -10.6</gx:coord>
+          <when>2023-10-19T15:17:03Z</when>
+          <gx:coord>-90.50057172 20.88483074 -9.7</gx:coord>
+          <when>2023-10-19T15:17:05Z</when>
+          <gx:coord>-90.50071479 20.88488024 -9.98</gx:coord>
+          <when>2023-10-19T15:17:07Z</when>
+          <gx:coord>-90.50086304 20.88494177 -9.99</gx:coord>
+          <when>2023-10-19T15:17:09Z</when>
+          <gx:coord>-90.50102002 20.88500392 -10.15</gx:coord>
+          <when>2023-10-19T15:17:11Z</when>
+          <gx:coord>-90.50116959 20.8850605 -10.47</gx:coord>
+          <when>2023-10-19T15:17:13Z</when>
+          <gx:coord>-90.5013173 20.88512326 -10.11</gx:coord>
+          <when>2023-10-19T15:17:15Z</when>
+          <gx:coord>-90.50147627 20.88518655 -10.45</gx:coord>
+          <when>2023-10-19T15:17:17Z</when>
+          <gx:coord>-90.50163376 20.88524948 -11.17</gx:coord>
+          <when>2023-10-19T15:17:19Z</when>
+          <gx:coord>-90.50178995 20.88532411 -11.79</gx:coord>
+          <when>2023-10-19T15:17:21Z</when>
+          <gx:coord>-90.5019377 20.8853925 -11.05</gx:coord>
+          <when>2023-10-19T15:17:23Z</when>
+          <gx:coord>-90.5020877 20.88545921 -10.26</gx:coord>
+          <when>2023-10-19T15:17:25Z</when>
+          <gx:coord>-90.50222988 20.88551938 -9.97</gx:coord>
+          <when>2023-10-19T15:17:27Z</when>
+          <gx:coord>-90.5023754 20.88558228 -9.96</gx:coord>
+          <when>2023-10-19T15:17:29Z</when>
+          <gx:coord>-90.50251659 20.88564319 -9.61</gx:coord>
+          <when>2023-10-19T15:17:31Z</when>
+          <gx:coord>-90.50267181 20.88570519 -9.59</gx:coord>
+          <when>2023-10-19T15:17:33Z</when>
+          <gx:coord>-90.50281614 20.88576659 -8.61</gx:coord>
+          <when>2023-10-19T15:17:35Z</when>
+          <gx:coord>-90.50296463 20.88582918 -8.22</gx:coord>
+          <when>2023-10-19T15:17:37Z</when>
+          <gx:coord>-90.50311212 20.88589153 -8.05</gx:coord>
+          <when>2023-10-19T15:17:39Z</when>
+          <gx:coord>-90.50326853 20.88593312 -7.67</gx:coord>
+          <when>2023-10-19T15:17:41Z</when>
+          <gx:coord>-90.50342633 20.88596406 -7.65</gx:coord>
+          <when>2023-10-19T15:17:43Z</when>
+          <gx:coord>-90.50357309 20.88599675 -7.8</gx:coord>
+          <when>2023-10-19T15:17:45Z</when>
+          <gx:coord>-90.50371323 20.88603638 -8.03</gx:coord>
+          <when>2023-10-19T15:17:47Z</when>
+          <gx:coord>-90.50385506 20.88607182 -8.21</gx:coord>
+          <when>2023-10-19T15:17:49Z</when>
+          <gx:coord>-90.50397017 20.88609775 -7.94</gx:coord>
+          <when>2023-10-19T15:17:51Z</when>
+          <gx:coord>-90.50408083 20.88611777 -7.26</gx:coord>
+          <when>2023-10-19T15:17:53Z</when>
+          <gx:coord>-90.5042006 20.88614617 -7.01</gx:coord>
+          <when>2023-10-19T15:17:56Z</when>
+          <gx:coord>-90.5043007 20.88617991 -7.07</gx:coord>
+          <when>2023-10-19T15:17:59Z</when>
+          <gx:coord>-90.50441628 20.8862295 -6.19</gx:coord>
+          <when>2023-10-19T15:18:02Z</when>
+          <gx:coord>-90.50449778 20.88627738 -6.65</gx:coord>
+          <when>2023-10-19T15:18:04Z</when>
+          <gx:coord>-90.50460668 20.88634769 -7.74</gx:coord>
+          <when>2023-10-19T15:18:07Z</when>
+          <gx:coord>-90.50468462 20.88641735 -6.71</gx:coord>
+          <when>2023-10-19T15:18:10Z</when>
+          <gx:coord>-90.50478835 20.88651609 -4.7</gx:coord>
+          <when>2023-10-19T15:18:13Z</when>
+          <gx:coord>-90.50490216 20.88656468 -6.42</gx:coord>
+          <when>2023-10-19T15:18:17Z</when>
+          <gx:coord>-90.50498651 20.88661645 -7.11</gx:coord>
+          <when>2023-10-19T15:18:19Z</when>
+          <gx:coord>-90.50510414 20.88660281 -5.59</gx:coord>
+          <when>2023-10-19T15:18:22Z</when>
+          <gx:coord>-90.50525246 20.88663112 -6.86</gx:coord>
+          <when>2023-10-19T15:18:25Z</when>
+          <gx:coord>-90.50537537 20.88663197 -7.14</gx:coord>
+          <when>2023-10-19T15:18:27Z</when>
+          <gx:coord>-90.50552381 20.88663127 -7.17</gx:coord>
+          <when>2023-10-19T15:18:29Z</when>
+          <gx:coord>-90.50567625 20.88663927 -6.93</gx:coord>
+          <when>2023-10-19T15:18:31Z</when>
+          <gx:coord>-90.5058309 20.88665686 -7.15</gx:coord>
+          <when>2023-10-19T15:18:33Z</when>
+          <gx:coord>-90.50597705 20.88667846 -5.61</gx:coord>
+          <when>2023-10-19T15:18:35Z</when>
+          <gx:coord>-90.50612854 20.88668734 -6.02</gx:coord>
+          <when>2023-10-19T15:18:37Z</when>
+          <gx:coord>-90.50628186 20.88670442 -7.21</gx:coord>
+          <when>2023-10-19T15:18:39Z</when>
+          <gx:coord>-90.50643829 20.88675199 -8.76</gx:coord>
+          <when>2023-10-19T15:18:41Z</when>
+          <gx:coord>-90.5065991 20.88681165 -8.12</gx:coord>
+          <when>2023-10-19T15:18:43Z</when>
+          <gx:coord>-90.50674671 20.88685798 -8.49</gx:coord>
+          <when>2023-10-19T15:18:45Z</when>
+          <gx:coord>-90.50689816 20.8868912 -9.31</gx:coord>
+          <when>2023-10-19T15:18:47Z</when>
+          <gx:coord>-90.50704898 20.8869136 -8.8</gx:coord>
+          <when>2023-10-19T15:18:49Z</when>
+          <gx:coord>-90.50719416 20.88693675 -7.97</gx:coord>
+          <when>2023-10-19T15:18:51Z</when>
+          <gx:coord>-90.50733965 20.88696742 -7.88</gx:coord>
+          <when>2023-10-19T15:18:53Z</when>
+          <gx:coord>-90.50746945 20.88698992 -8.56</gx:coord>
+          <when>2023-10-19T15:18:55Z</when>
+          <gx:coord>-90.50762177 20.8870236 -8.47</gx:coord>
+          <when>2023-10-19T15:18:57Z</when>
+          <gx:coord>-90.50778838 20.88703625 -9.14</gx:coord>
+          <when>2023-10-19T15:18:59Z</when>
+          <gx:coord>-90.50794862 20.88706289 -8.4</gx:coord>
+          <when>2023-10-19T15:19:01Z</when>
+          <gx:coord>-90.5081142 20.88709443 -7.91</gx:coord>
+          <when>2023-10-19T15:19:03Z</when>
+          <gx:coord>-90.50828367 20.88710786 -8.63</gx:coord>
+          <when>2023-10-19T15:19:05Z</when>
+          <gx:coord>-90.50844186 20.88711805 -8.75</gx:coord>
+          <when>2023-10-19T15:19:07Z</when>
+          <gx:coord>-90.50860417 20.8871388 -8.88</gx:coord>
+          <when>2023-10-19T15:19:09Z</when>
+          <gx:coord>-90.50875307 20.88715151 -7.81</gx:coord>
+          <when>2023-10-19T15:19:11Z</when>
+          <gx:coord>-90.50890448 20.88716301 -8.43</gx:coord>
+          <when>2023-10-19T15:19:13Z</when>
+          <gx:coord>-90.50906106 20.88717761 -8.61</gx:coord>
+          <when>2023-10-19T15:19:15Z</when>
+          <gx:coord>-90.50921808 20.88719525 -9.15</gx:coord>
+          <when>2023-10-19T15:19:17Z</when>
+          <gx:coord>-90.509382 20.8872028 -9.02</gx:coord>
+          <when>2023-10-19T15:19:19Z</when>
+          <gx:coord>-90.50954096 20.88720516 -8.59</gx:coord>
+          <when>2023-10-19T15:19:21Z</when>
+          <gx:coord>-90.50969942 20.88721478 -8.05</gx:coord>
+          <when>2023-10-19T15:19:23Z</when>
+          <gx:coord>-90.50986375 20.88723348 -8.51</gx:coord>
+          <when>2023-10-19T15:19:25Z</when>
+          <gx:coord>-90.51002017 20.88725213 -7.86</gx:coord>
+          <when>2023-10-19T15:19:27Z</when>
+          <gx:coord>-90.51017694 20.88726924 -8.71</gx:coord>
+          <when>2023-10-19T15:19:29Z</when>
+          <gx:coord>-90.51033831 20.8872834 -9.66</gx:coord>
+          <when>2023-10-19T15:19:31Z</when>
+          <gx:coord>-90.51051341 20.88729629 -9.9</gx:coord>
+          <when>2023-10-19T15:19:33Z</when>
+          <gx:coord>-90.51066979 20.88729624 -11.12</gx:coord>
+          <when>2023-10-19T15:19:35Z</when>
+          <gx:coord>-90.51080577 20.88728837 -11.23</gx:coord>
+          <when>2023-10-19T15:19:37Z</when>
+          <gx:coord>-90.5109614 20.88727581 -10.18</gx:coord>
+          <when>2023-10-19T15:19:39Z</when>
+          <gx:coord>-90.51112039 20.88727634 -9.45</gx:coord>
+          <when>2023-10-19T15:19:41Z</when>
+          <gx:coord>-90.511292 20.88728623 -9.31</gx:coord>
+          <when>2023-10-19T15:19:43Z</when>
+          <gx:coord>-90.51146555 20.88728651 -9.53</gx:coord>
+          <when>2023-10-19T15:19:45Z</when>
+          <gx:coord>-90.51163367 20.88729288 -9.23</gx:coord>
+          <when>2023-10-19T15:19:47Z</when>
+          <gx:coord>-90.51179357 20.88730044 -9.96</gx:coord>
+          <when>2023-10-19T15:19:49Z</when>
+          <gx:coord>-90.51194195 20.88731658 -9.09</gx:coord>
+          <when>2023-10-19T15:19:51Z</when>
+          <gx:coord>-90.51208632 20.88732954 -7.67</gx:coord>
+          <when>2023-10-19T15:19:53Z</when>
+          <gx:coord>-90.51223828 20.88734716 -7.66</gx:coord>
+          <when>2023-10-19T15:19:55Z</when>
+          <gx:coord>-90.51238877 20.88736361 -6.92</gx:coord>
+          <when>2023-10-19T15:19:57Z</when>
+          <gx:coord>-90.51252883 20.88737337 -5.58</gx:coord>
+          <when>2023-10-19T15:19:59Z</when>
+          <gx:coord>-90.51267299 20.88738459 -6.14</gx:coord>
+          <when>2023-10-19T15:20:01Z</when>
+          <gx:coord>-90.51281193 20.88740244 -6.46</gx:coord>
+          <when>2023-10-19T15:20:03Z</when>
+          <gx:coord>-90.51295973 20.88741988 -7.22</gx:coord>
+          <when>2023-10-19T15:20:05Z</when>
+          <gx:coord>-90.51310332 20.88742921 -5.98</gx:coord>
+          <when>2023-10-19T15:20:07Z</when>
+          <gx:coord>-90.5132472 20.88743242 -5.86</gx:coord>
+          <when>2023-10-19T15:20:09Z</when>
+          <gx:coord>-90.51339057 20.88743003 -6.75</gx:coord>
+          <when>2023-10-19T15:20:11Z</when>
+          <gx:coord>-90.51354187 20.88740893 -6.88</gx:coord>
+          <when>2023-10-19T15:20:13Z</when>
+          <gx:coord>-90.51369658 20.88738212 -6.97</gx:coord>
+          <when>2023-10-19T15:20:15Z</when>
+          <gx:coord>-90.51385729 20.88736257 -7.15</gx:coord>
+          <when>2023-10-19T15:20:17Z</when>
+          <gx:coord>-90.51400496 20.88732552 -6.1</gx:coord>
+          <when>2023-10-19T15:20:19Z</when>
+          <gx:coord>-90.51414414 20.88727085 -6.17</gx:coord>
+          <when>2023-10-19T15:20:21Z</when>
+          <gx:coord>-90.51429486 20.88720389 -6.37</gx:coord>
+          <when>2023-10-19T15:20:23Z</when>
+          <gx:coord>-90.5144483 20.88715247 -6.52</gx:coord>
+          <when>2023-10-19T15:20:25Z</when>
+          <gx:coord>-90.51461557 20.88713261 -5.07</gx:coord>
+          <when>2023-10-19T15:20:27Z</when>
+          <gx:coord>-90.51477028 20.88712749 -5.38</gx:coord>
+          <when>2023-10-19T15:20:29Z</when>
+          <gx:coord>-90.51490953 20.88712653 -5.65</gx:coord>
+          <when>2023-10-19T15:20:31Z</when>
+          <gx:coord>-90.51505591 20.88712368 -6.14</gx:coord>
+          <when>2023-10-19T15:20:33Z</when>
+          <gx:coord>-90.51520796 20.88713192 -6.61</gx:coord>
+          <when>2023-10-19T15:20:35Z</when>
+          <gx:coord>-90.51537733 20.88713542 -5.89</gx:coord>
+          <when>2023-10-19T15:20:37Z</when>
+          <gx:coord>-90.51554627 20.88713448 -6.25</gx:coord>
+          <when>2023-10-19T15:20:39Z</when>
+          <gx:coord>-90.51573415 20.8871329 -6.07</gx:coord>
+          <when>2023-10-19T15:20:41Z</when>
+          <gx:coord>-90.51591617 20.88714309 -5.75</gx:coord>
+          <when>2023-10-19T15:20:43Z</when>
+          <gx:coord>-90.51610223 20.88715053 -5.83</gx:coord>
+          <when>2023-10-19T15:20:45Z</when>
+          <gx:coord>-90.51636826 20.88717512 -5.91</gx:coord>
+          <when>2023-10-19T15:20:48Z</when>
+          <gx:coord>-90.51653332 20.88718782 -7.21</gx:coord>
+          <when>2023-10-19T15:20:50Z</when>
+          <gx:coord>-90.51671054 20.88720383 -7.07</gx:coord>
+          <when>2023-10-19T15:20:52Z</when>
+          <gx:coord>-90.51680911 20.88721192 -6.17</gx:coord>
+          <when>2023-10-19T15:20:53Z</when>
+          <gx:coord>-90.51699111 20.8872268 -5.85</gx:coord>
+          <when>2023-10-19T15:20:55Z</when>
+          <gx:coord>-90.51716813 20.88723554 -5.93</gx:coord>
+          <when>2023-10-19T15:20:57Z</when>
+          <gx:coord>-90.51735398 20.88724214 -5.88</gx:coord>
+          <when>2023-10-19T15:20:59Z</when>
+          <gx:coord>-90.51745096 20.88724047 -5.59</gx:coord>
+          <when>2023-10-19T15:21:00Z</when>
+          <gx:coord>-90.51767948 20.88724996 -5.24</gx:coord>
+          <when>2023-10-19T15:21:02Z</when>
+          <gx:coord>-90.51784114 20.88725858 -4.18</gx:coord>
+          <when>2023-10-19T15:21:04Z</when>
+          <gx:coord>-90.51800898 20.88724912 -4.04</gx:coord>
+          <when>2023-10-19T15:21:06Z</when>
+          <gx:coord>-90.51818026 20.88725709 -5.05</gx:coord>
+          <when>2023-10-19T15:21:08Z</when>
+          <gx:coord>-90.51835502 20.88725738 -5.01</gx:coord>
+          <when>2023-10-19T15:21:10Z</when>
+          <gx:coord>-90.51851397 20.88725571 -6.14</gx:coord>
+          <when>2023-10-19T15:21:12Z</when>
+          <gx:coord>-90.51868883 20.88725043 -6.46</gx:coord>
+          <when>2023-10-19T15:21:14Z</when>
+          <gx:coord>-90.51887003 20.88724744 -6.69</gx:coord>
+          <when>2023-10-19T15:21:16Z</when>
+          <gx:coord>-90.51896761 20.88723985 -6.33</gx:coord>
+          <when>2023-10-19T15:21:17Z</when>
+          <gx:coord>-90.51906375 20.88723386 -6.25</gx:coord>
+          <when>2023-10-19T15:21:18Z</when>
+          <gx:coord>-90.5192451 20.88721804 -6.76</gx:coord>
+          <when>2023-10-19T15:21:20Z</when>
+          <gx:coord>-90.51942744 20.8872122 -6.74</gx:coord>
+          <when>2023-10-19T15:21:22Z</when>
+          <gx:coord>-90.51961071 20.88720991 -5.98</gx:coord>
+          <when>2023-10-19T15:21:24Z</when>
+          <gx:coord>-90.51978417 20.88719493 -6.03</gx:coord>
+          <when>2023-10-19T15:21:26Z</when>
+          <gx:coord>-90.51995707 20.88717857 -5.55</gx:coord>
+          <when>2023-10-19T15:21:28Z</when>
+          <gx:coord>-90.52013091 20.88715484 -7.28</gx:coord>
+          <when>2023-10-19T15:21:30Z</when>
+          <gx:coord>-90.52031103 20.88713416 -6.75</gx:coord>
+          <when>2023-10-19T15:21:32Z</when>
+          <gx:coord>-90.52047953 20.88712501 -7.53</gx:coord>
+          <when>2023-10-19T15:21:34Z</when>
+          <gx:coord>-90.52066012 20.88711365 -7.55</gx:coord>
+          <when>2023-10-19T15:21:36Z</when>
+          <gx:coord>-90.52084216 20.88709668 -6.75</gx:coord>
+          <when>2023-10-19T15:21:38Z</when>
+          <gx:coord>-90.52100716 20.88708768 -6.24</gx:coord>
+          <when>2023-10-19T15:21:40Z</when>
+          <gx:coord>-90.52115383 20.8870696 -5.6</gx:coord>
+          <when>2023-10-19T15:21:42Z</when>
+          <gx:coord>-90.52131721 20.88705248 -5.43</gx:coord>
+          <when>2023-10-19T15:21:44Z</when>
+          <gx:coord>-90.52147318 20.88703823 -5.46</gx:coord>
+          <when>2023-10-19T15:21:46Z</when>
+          <gx:coord>-90.52164616 20.8870204 -5.23</gx:coord>
+          <when>2023-10-19T15:21:48Z</when>
+          <gx:coord>-90.52179566 20.88698515 -5.8</gx:coord>
+          <when>2023-10-19T15:21:50Z</when>
+          <gx:coord>-90.52194593 20.88695037 -5.63</gx:coord>
+          <when>2023-10-19T15:21:52Z</when>
+          <gx:coord>-90.52210618 20.88691289 -5.74</gx:coord>
+          <when>2023-10-19T15:21:54Z</when>
+          <gx:coord>-90.52225949 20.88688554 -5.6</gx:coord>
+          <when>2023-10-19T15:21:56Z</when>
+          <gx:coord>-90.52241411 20.88686512 -5.86</gx:coord>
+          <when>2023-10-19T15:21:58Z</when>
+          <gx:coord>-90.52256839 20.88684286 -5.35</gx:coord>
+          <when>2023-10-19T15:22:00Z</when>
+          <gx:coord>-90.52272501 20.88682522 -5.64</gx:coord>
+          <when>2023-10-19T15:22:02Z</when>
+          <gx:coord>-90.52288824 20.88680531 -5.34</gx:coord>
+          <when>2023-10-19T15:22:04Z</when>
+          <gx:coord>-90.52304867 20.88678501 -5.33</gx:coord>
+          <when>2023-10-19T15:22:06Z</when>
+          <gx:coord>-90.5232026 20.88675838 -5.22</gx:coord>
+          <when>2023-10-19T15:22:08Z</when>
+          <gx:coord>-90.52335202 20.88672572 -5.51</gx:coord>
+          <when>2023-10-19T15:22:10Z</when>
+          <gx:coord>-90.52350086 20.88669142 -6.1</gx:coord>
+          <when>2023-10-19T15:22:12Z</when>
+          <gx:coord>-90.52365156 20.88663931 -5.74</gx:coord>
+          <when>2023-10-19T15:22:14Z</when>
+          <gx:coord>-90.52380503 20.88659388 -5.66</gx:coord>
+          <when>2023-10-19T15:22:16Z</when>
+          <gx:coord>-90.52396044 20.8865625 -5.36</gx:coord>
+          <when>2023-10-19T15:22:18Z</when>
+          <gx:coord>-90.52410612 20.88652743 -5.6</gx:coord>
+          <when>2023-10-19T15:22:20Z</when>
+          <gx:coord>-90.52424443 20.88649869 -4.87</gx:coord>
+          <when>2023-10-19T15:22:22Z</when>
+          <gx:coord>-90.5243971 20.88646078 -4.1</gx:coord>
+          <when>2023-10-19T15:22:24Z</when>
+          <gx:coord>-90.52456306 20.88644593 -4.35</gx:coord>
+          <when>2023-10-19T15:22:26Z</when>
+          <gx:coord>-90.52472491 20.88643627 -5.21</gx:coord>
+          <when>2023-10-19T15:22:28Z</when>
+          <gx:coord>-90.52488403 20.88641425 -5.14</gx:coord>
+          <when>2023-10-19T15:22:30Z</when>
+          <gx:coord>-90.52504476 20.88639822 -5.12</gx:coord>
+          <when>2023-10-19T15:22:32Z</when>
+          <gx:coord>-90.52520862 20.88638571 -5.55</gx:coord>
+          <when>2023-10-19T15:22:34Z</when>
+          <gx:coord>-90.52536461 20.8863685 -4.91</gx:coord>
+          <when>2023-10-19T15:22:36Z</when>
+          <gx:coord>-90.52553533 20.88634874 -4.22</gx:coord>
+          <when>2023-10-19T15:22:38Z</when>
+          <gx:coord>-90.52570172 20.88632626 -2.43</gx:coord>
+          <when>2023-10-19T15:22:40Z</when>
+          <gx:coord>-90.52586988 20.88630821 -1.9</gx:coord>
+          <when>2023-10-19T15:22:42Z</when>
+          <gx:coord>-90.52603671 20.88627143 -2.08</gx:coord>
+          <when>2023-10-19T15:22:44Z</when>
+          <gx:coord>-90.52619797 20.88622379 -1.19</gx:coord>
+          <when>2023-10-19T15:22:46Z</when>
+          <gx:coord>-90.52635215 20.88619678 -1.58</gx:coord>
+          <when>2023-10-19T15:22:48Z</when>
+          <gx:coord>-90.52651765 20.88618105 -1.3</gx:coord>
+          <when>2023-10-19T15:22:50Z</when>
+          <gx:coord>-90.52667349 20.88616982 -0.74</gx:coord>
+          <when>2023-10-19T15:22:52Z</when>
+          <gx:coord>-90.52682246 20.88614627 1.68</gx:coord>
+          <when>2023-10-19T15:22:54Z</when>
+          <gx:coord>-90.5269806 20.88613321 1.19</gx:coord>
+          <when>2023-10-19T15:22:56Z</when>
+          <gx:coord>-90.5271361 20.88611443 0.85</gx:coord>
+          <when>2023-10-19T15:22:58Z</when>
+          <gx:coord>-90.52727819 20.8860901 1.35</gx:coord>
+          <when>2023-10-19T15:23:00Z</when>
+          <gx:coord>-90.5274361 20.88606994 -0.02</gx:coord>
+          <when>2023-10-19T15:23:02Z</when>
+          <gx:coord>-90.52758752 20.88603347 0.68</gx:coord>
+          <when>2023-10-19T15:23:04Z</when>
+          <gx:coord>-90.52771519 20.88603062 -1.83</gx:coord>
+          <when>2023-10-19T15:23:06Z</when>
+          <gx:coord>-90.52787398 20.88600999 -2.95</gx:coord>
+          <when>2023-10-19T15:23:08Z</when>
+          <gx:coord>-90.52804021 20.88600251 -3.39</gx:coord>
+          <when>2023-10-19T15:23:10Z</when>
+          <gx:coord>-90.52819831 20.88596421 -3.1</gx:coord>
+          <when>2023-10-19T15:23:12Z</when>
+          <gx:coord>-90.52834471 20.88595114 -2.53</gx:coord>
+          <when>2023-10-19T15:23:14Z</when>
+          <gx:coord>-90.52849592 20.88594332 -2.82</gx:coord>
+          <when>2023-10-19T15:23:16Z</when>
+          <gx:coord>-90.52864539 20.88592221 -4.57</gx:coord>
+          <when>2023-10-19T15:23:18Z</when>
+          <gx:coord>-90.52879259 20.88590269 -5.38</gx:coord>
+          <when>2023-10-19T15:23:20Z</when>
+          <gx:coord>-90.52897888 20.88589273 -7.97</gx:coord>
+          <when>2023-10-19T15:23:22Z</when>
+          <gx:coord>-90.52914763 20.88587222 -7.05</gx:coord>
+          <when>2023-10-19T15:23:24Z</when>
+          <gx:coord>-90.52931583 20.88585608 -6.09</gx:coord>
+          <when>2023-10-19T15:23:26Z</when>
+          <gx:coord>-90.52950162 20.88584575 -6.35</gx:coord>
+          <when>2023-10-19T15:23:28Z</when>
+          <gx:coord>-90.5296704 20.88581899 -8.25</gx:coord>
+          <when>2023-10-19T15:23:30Z</when>
+          <gx:coord>-90.52983653 20.88578311 -8.32</gx:coord>
+          <when>2023-10-19T15:23:32Z</when>
+          <gx:coord>-90.52997258 20.88574711 -6.13</gx:coord>
+          <when>2023-10-19T15:23:34Z</when>
+          <gx:coord>-90.5301421 20.88571964 -6.85</gx:coord>
+          <when>2023-10-19T15:23:36Z</when>
+          <gx:coord>-90.53028928 20.88570845 -8.18</gx:coord>
+          <when>2023-10-19T15:23:38Z</when>
+          <gx:coord>-90.53038716 20.88570067 -7.66</gx:coord>
+          <when>2023-10-19T15:23:39Z</when>
+          <gx:coord>-90.5305602 20.88570849 -6.45</gx:coord>
+          <when>2023-10-19T15:23:41Z</when>
+          <gx:coord>-90.53073431 20.88568747 -4.44</gx:coord>
+          <when>2023-10-19T15:23:43Z</when>
+          <gx:coord>-90.53089681 20.88566162 -4.29</gx:coord>
+          <when>2023-10-19T15:23:45Z</when>
+          <gx:coord>-90.53104966 20.88564612 -5.51</gx:coord>
+          <when>2023-10-19T15:23:47Z</when>
+          <gx:coord>-90.53121893 20.88563786 -4.69</gx:coord>
+          <when>2023-10-19T15:23:49Z</when>
+          <gx:coord>-90.53137121 20.88558667 -4.85</gx:coord>
+          <when>2023-10-19T15:23:51Z</when>
+          <gx:coord>-90.53152634 20.88554372 -4.01</gx:coord>
+          <when>2023-10-19T15:23:53Z</when>
+          <gx:coord>-90.53167262 20.88553154 -4.56</gx:coord>
+          <when>2023-10-19T15:23:55Z</when>
+          <gx:coord>-90.53181992 20.88553019 -2.96</gx:coord>
+          <when>2023-10-19T15:23:57Z</when>
+          <gx:coord>-90.53195434 20.88556356 -2.5</gx:coord>
+          <when>2023-10-19T15:23:59Z</when>
+          <gx:coord>-90.53210581 20.88555454 -1.27</gx:coord>
+          <when>2023-10-19T15:24:01Z</when>
+          <gx:coord>-90.53224998 20.88557197 -1.33</gx:coord>
+          <when>2023-10-19T15:24:03Z</when>
+          <gx:coord>-90.53239656 20.88557486 -2.61</gx:coord>
+          <when>2023-10-19T15:24:05Z</when>
+          <gx:coord>-90.53255524 20.88559374 -2.97</gx:coord>
+          <when>2023-10-19T15:24:07Z</when>
+          <gx:coord>-90.53270542 20.88559738 -3.43</gx:coord>
+          <when>2023-10-19T15:24:09Z</when>
+          <gx:coord>-90.53285076 20.88560538 -3.37</gx:coord>
+          <when>2023-10-19T15:24:11Z</when>
+          <gx:coord>-90.53302585 20.88560977 -4.27</gx:coord>
+          <when>2023-10-19T15:24:13Z</when>
+          <gx:coord>-90.53318883 20.88559859 -5.49</gx:coord>
+          <when>2023-10-19T15:24:15Z</when>
+          <gx:coord>-90.53335366 20.88559786 -5.74</gx:coord>
+          <when>2023-10-19T15:24:17Z</when>
+          <gx:coord>-90.53349877 20.88561464 -6.3</gx:coord>
+          <when>2023-10-19T15:24:19Z</when>
+          <gx:coord>-90.53366755 20.88561968 -5.41</gx:coord>
+          <when>2023-10-19T15:24:21Z</when>
+          <gx:coord>-90.53382082 20.8856277 -5.68</gx:coord>
+          <when>2023-10-19T15:24:23Z</when>
+          <gx:coord>-90.53397439 20.8856403 -5.71</gx:coord>
+          <when>2023-10-19T15:24:25Z</when>
+          <gx:coord>-90.53411664 20.88564972 -5.37</gx:coord>
+          <when>2023-10-19T15:24:27Z</when>
+          <gx:coord>-90.53425036 20.88566134 -6.16</gx:coord>
+          <when>2023-10-19T15:24:29Z</when>
+          <gx:coord>-90.53437659 20.88563059 -5.29</gx:coord>
+          <when>2023-10-19T15:24:31Z</when>
+          <gx:coord>-90.5345019 20.8855961 -5.63</gx:coord>
+          <when>2023-10-19T15:24:33Z</when>
+          <gx:coord>-90.53460835 20.88555081 -5.42</gx:coord>
+          <when>2023-10-19T15:24:35Z</when>
+          <gx:coord>-90.53469587 20.88550503 -7.82</gx:coord>
+          <when>2023-10-19T15:24:37Z</when>
+          <gx:coord>-90.5347778 20.88544465 -8.47</gx:coord>
+          <when>2023-10-19T15:24:40Z</when>
+          <gx:coord>-90.53487336 20.88536794 -4.52</gx:coord>
+          <when>2023-10-19T15:24:44Z</when>
+          <gx:coord>-90.53496241 20.88532111 -4.98</gx:coord>
+          <when>2023-10-19T15:24:49Z</when>
+          <gx:coord>-90.53505105 20.88527358 -4.59</gx:coord>
+          <when>2023-10-19T15:24:55Z</when>
+          <gx:coord>-90.53513408 20.88521383 -5.42</gx:coord>
+          <when>2023-10-19T15:25:03Z</when>
+          <gx:coord>-90.53520966 20.88515284 -6.88</gx:coord>
+          <when>2023-10-19T15:25:11Z</when>
+          <gx:coord>-90.53531189 20.8850927 -8.08</gx:coord>
+          <when>2023-10-19T15:25:21Z</when>
+          <gx:coord>-90.53535972 20.88500698 -9.08</gx:coord>
+          <when>2023-10-19T15:25:28Z</when>
+          <gx:coord>-90.53540448 20.88492509 -9.41</gx:coord>
+          <when>2023-10-19T15:25:37Z</when>
+          <gx:coord>-90.53546205 20.8848367 -9.31</gx:coord>
+          <when>2023-10-19T15:25:44Z</when>
+          <gx:coord>-90.53552507 20.8847633 -9</gx:coord>
+          <when>2023-10-19T15:25:51Z</when>
+          <gx:coord>-90.53562504 20.88475773 -8.13</gx:coord>
+          <when>2023-10-19T15:26:00Z</when>
+          <gx:coord>-90.53571944 20.88479427 -7.7</gx:coord>
+          <when>2023-10-19T15:26:08Z</when>
+          <gx:coord>-90.53580608 20.88485931 -8.34</gx:coord>
+          <when>2023-10-19T15:26:16Z</when>
+          <gx:coord>-90.53588533 20.8849235 -7.16</gx:coord>
+          <when>2023-10-19T15:26:26Z</when>
+          <gx:coord>-90.53590617 20.88501986 -4.7</gx:coord>
+          <when>2023-10-19T15:26:35Z</when>
+          <gx:coord>-90.53585078 20.88510506 -6.9</gx:coord>
+          <when>2023-10-19T15:26:46Z</when>
+          <gx:coord>-90.53575995 20.88514813 -6.32</gx:coord>
+          <when>2023-10-19T15:26:55Z</when>
+          <gx:coord>-90.53566324 20.88515063 -7.1</gx:coord>
+          <when>2023-10-19T15:27:02Z</when>
+          <gx:coord>-90.5355569 20.88514281 -5.81</gx:coord>
+          <when>2023-10-19T15:27:09Z</when>
+          <gx:coord>-90.53546347 20.88510681 -4.72</gx:coord>
+          <when>2023-10-19T15:27:17Z</when>
+          <gx:coord>-90.53540698 20.88503321 -5.17</gx:coord>
+          <when>2023-10-19T15:27:25Z</when>
+          <gx:coord>-90.53540949 20.88494279 -4.52</gx:coord>
+          <when>2023-10-19T15:27:31Z</when>
+          <gx:coord>-90.53542344 20.88484619 -4.77</gx:coord>
+          <when>2023-10-19T15:27:37Z</when>
+          <gx:coord>-90.53549707 20.88476942 -5.58</gx:coord>
+          <when>2023-10-19T15:27:44Z</when>
+          <gx:coord>-90.5356051 20.88473006 -6.17</gx:coord>
+          <when>2023-10-19T15:27:52Z</when>
+          <gx:coord>-90.53570465 20.88474658 -7.42</gx:coord>
+          <when>2023-10-19T15:28:01Z</when>
+          <gx:coord>-90.53579244 20.88479668 -6.24</gx:coord>
+          <when>2023-10-19T15:28:09Z</when>
+          <gx:coord>-90.53585031 20.88487398 -6.47</gx:coord>
+          <when>2023-10-19T15:28:17Z</when>
+          <gx:coord>-90.53589793 20.88495559 -5.85</gx:coord>
+          <when>2023-10-19T15:28:24Z</when>
+          <gx:coord>-90.53590909 20.88505041 -4.84</gx:coord>
+          <when>2023-10-19T15:28:31Z</when>
+          <gx:coord>-90.53583082 20.88510799 -6.43</gx:coord>
+          <when>2023-10-19T15:28:44Z</when>
+          <gx:coord>-90.53574045 20.88507235 -4.6</gx:coord>
+          <when>2023-10-19T15:28:53Z</when>
+          <gx:coord>-90.53564966 20.88504262 -5.45</gx:coord>
+          <when>2023-10-19T15:29:44Z</when>
+          <gx:coord>-90.5357129 20.88505892 -4.98</gx:coord>
+          <when>2023-10-19T15:33:05Z</when>
+          <gx:coord>-90.53571206 20.88505925 -4.98</gx:coord>
+          <when>2023-10-19T15:33:06Z</when>
+          <gx:coord>-90.53571186 20.8850593 -4.99</gx:coord>
+          <when>2023-10-19T15:33:07Z</when>
+          <gx:coord>-90.53570976 20.88505787 -5.27</gx:coord>
+          <when>2023-10-19T15:33:08Z</when>
+          <gx:coord>-90.53571861 20.88505942 -5.87</gx:coord>
+          <when>2023-10-19T15:35:21Z</when>
+          <gx:coord>-90.53571861 20.88505942 -5.87</gx:coord>
+          <when>2023-10-19T15:35:22Z</when>
+          <gx:coord>-90.53571885 20.88505957 -6.21</gx:coord>
+          <when>2023-10-19T15:35:23Z</when>
+          <gx:coord>-90.53571923 20.88505999 -6.2</gx:coord>
+          <when>2023-10-19T15:35:24Z</when>
+          <gx:coord>-90.53572286 20.88507399 -7.63</gx:coord>
+          <when>2023-10-19T15:37:25Z</when>
+          <gx:coord>-90.53571721 20.88505623 -4.95</gx:coord>
+          <when>2023-10-19T15:39:26Z</when>
+          <gx:coord>-90.53571461 20.88505578 -6.85</gx:coord>
+          <when>2023-10-19T15:41:27Z</when>
+          <gx:coord>-90.53571492 20.88505628 -6.84</gx:coord>
+          <when>2023-10-19T15:41:28Z</when>
+          <gx:coord>-90.53572334 20.88506007 -5.89</gx:coord>
+          <when>2023-10-19T15:43:29Z</when>
+          <gx:coord>-90.53572334 20.88506008 -5.89</gx:coord>
+          <when>2023-10-19T15:43:30Z</when>
+          <gx:coord>-90.53572333 20.88506009 -5.89</gx:coord>
+          <when>2023-10-19T15:43:31Z</when>
+          <gx:coord>-90.53572944 20.88506538 -4.84</gx:coord>
+          <when>2023-10-19T15:45:32Z</when>
+          <gx:coord>-90.53573729 20.88506473 -4.9</gx:coord>
+          <when>2023-10-19T15:47:33Z</when>
+          <gx:coord>-90.53573759 20.88507281 -3.65</gx:coord>
+          <when>2023-10-19T15:49:34Z</when>
+          <gx:coord>-90.53572853 20.88506293 -4.63</gx:coord>
+          <when>2023-10-19T15:51:35Z</when>
+          <gx:coord>-90.535734 20.88506886 -3.2</gx:coord>
+          <when>2023-10-19T15:53:36Z</when>
+          <gx:coord>-90.53574412 20.88507409 -2.58</gx:coord>
+          <when>2023-10-19T15:53:37Z</when>
+          <gx:coord>-90.53575045 20.88507307 -3.37</gx:coord>
+          <when>2023-10-19T15:53:38Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>2.15</gx:value>
+                <gx:value>2.49</gx:value>
+                <gx:value>3.02</gx:value>
+                <gx:value>2.8</gx:value>
+                <gx:value>2.56</gx:value>
+                <gx:value>3.42</gx:value>
+                <gx:value>4.29</gx:value>
+                <gx:value>4.03</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.33</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>5.94</gx:value>
+                <gx:value>6.12</gx:value>
+                <gx:value>7.17</gx:value>
+                <gx:value>8.06</gx:value>
+                <gx:value>8.42</gx:value>
+                <gx:value>8.85</gx:value>
+                <gx:value>8.95</gx:value>
+                <gx:value>8.62</gx:value>
+                <gx:value>8.72</gx:value>
+                <gx:value>8.73</gx:value>
+                <gx:value>8.2</gx:value>
+                <gx:value>8.04</gx:value>
+                <gx:value>8.6</gx:value>
+                <gx:value>8.68</gx:value>
+                <gx:value>8.7</gx:value>
+                <gx:value>8.73</gx:value>
+                <gx:value>8.47</gx:value>
+                <gx:value>8.39</gx:value>
+                <gx:value>7.98</gx:value>
+                <gx:value>8.1</gx:value>
+                <gx:value>8.12</gx:value>
+                <gx:value>8.44</gx:value>
+                <gx:value>8.29</gx:value>
+                <gx:value>8.63</gx:value>
+                <gx:value>8.79</gx:value>
+                <gx:value>8.85</gx:value>
+                <gx:value>8.75</gx:value>
+                <gx:value>8.96</gx:value>
+                <gx:value>9.22</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>8.97</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>9.22</gx:value>
+                <gx:value>8.81</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>9.35</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>9.57</gx:value>
+                <gx:value>10.01</gx:value>
+                <gx:value>10.2</gx:value>
+                <gx:value>10.51</gx:value>
+                <gx:value>10.12</gx:value>
+                <gx:value>10</gx:value>
+                <gx:value>10.4</gx:value>
+                <gx:value>10.31</gx:value>
+                <gx:value>10.19</gx:value>
+                <gx:value>10.22</gx:value>
+                <gx:value>10.3</gx:value>
+                <gx:value>10.04</gx:value>
+                <gx:value>9.99</gx:value>
+                <gx:value>10.11</gx:value>
+                <gx:value>10.1</gx:value>
+                <gx:value>9.96</gx:value>
+                <gx:value>10.37</gx:value>
+                <gx:value>10.3</gx:value>
+                <gx:value>10.26</gx:value>
+                <gx:value>10.35</gx:value>
+                <gx:value>9.91</gx:value>
+                <gx:value>10.59</gx:value>
+                <gx:value>10.07</gx:value>
+                <gx:value>10.53</gx:value>
+                <gx:value>10.26</gx:value>
+                <gx:value>9.97</gx:value>
+                <gx:value>10.05</gx:value>
+                <gx:value>10.14</gx:value>
+                <gx:value>10.2</gx:value>
+                <gx:value>9.87</gx:value>
+                <gx:value>10.3</gx:value>
+                <gx:value>10.01</gx:value>
+                <gx:value>10.04</gx:value>
+                <gx:value>10.09</gx:value>
+                <gx:value>9.96</gx:value>
+                <gx:value>10.23</gx:value>
+                <gx:value>9.8</gx:value>
+                <gx:value>9.99</gx:value>
+                <gx:value>10.05</gx:value>
+                <gx:value>9.75</gx:value>
+                <gx:value>9.97</gx:value>
+                <gx:value>10.38</gx:value>
+                <gx:value>10.08</gx:value>
+                <gx:value>9.71</gx:value>
+                <gx:value>10.68</gx:value>
+                <gx:value>9.95</gx:value>
+                <gx:value>10.36</gx:value>
+                <gx:value>9.71</gx:value>
+                <gx:value>10.31</gx:value>
+                <gx:value>9.83</gx:value>
+                <gx:value>9.8</gx:value>
+                <gx:value>9.78</gx:value>
+                <gx:value>10.11</gx:value>
+                <gx:value>10.13</gx:value>
+                <gx:value>9.74</gx:value>
+                <gx:value>9.65</gx:value>
+                <gx:value>9.76</gx:value>
+                <gx:value>9.61</gx:value>
+                <gx:value>9.96</gx:value>
+                <gx:value>9.64</gx:value>
+                <gx:value>9.76</gx:value>
+                <gx:value>9.8</gx:value>
+                <gx:value>9.79</gx:value>
+                <gx:value>9.82</gx:value>
+                <gx:value>9.46</gx:value>
+                <gx:value>10.05</gx:value>
+                <gx:value>9.66</gx:value>
+                <gx:value>9.41</gx:value>
+                <gx:value>9.73</gx:value>
+                <gx:value>9.48</gx:value>
+                <gx:value>9.56</gx:value>
+                <gx:value>9.5</gx:value>
+                <gx:value>9.73</gx:value>
+                <gx:value>9.62</gx:value>
+                <gx:value>9.42</gx:value>
+                <gx:value>10.13</gx:value>
+                <gx:value>9.47</gx:value>
+                <gx:value>9.78</gx:value>
+                <gx:value>9.55</gx:value>
+                <gx:value>9.23</gx:value>
+                <gx:value>9.67</gx:value>
+                <gx:value>9.49</gx:value>
+                <gx:value>9.59</gx:value>
+                <gx:value>10.03</gx:value>
+                <gx:value>9.39</gx:value>
+                <gx:value>9.55</gx:value>
+                <gx:value>9.38</gx:value>
+                <gx:value>9.32</gx:value>
+                <gx:value>10.08</gx:value>
+                <gx:value>9.64</gx:value>
+                <gx:value>9.27</gx:value>
+                <gx:value>9.67</gx:value>
+                <gx:value>9.52</gx:value>
+                <gx:value>9.66</gx:value>
+                <gx:value>8.76</gx:value>
+                <gx:value>9.63</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>9.23</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.61</gx:value>
+                <gx:value>9.55</gx:value>
+                <gx:value>9.26</gx:value>
+                <gx:value>9.46</gx:value>
+                <gx:value>9.42</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>9.46</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>8.98</gx:value>
+                <gx:value>9.5</gx:value>
+                <gx:value>9.72</gx:value>
+                <gx:value>9.77</gx:value>
+                <gx:value>9.44</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.27</gx:value>
+                <gx:value>9.6</gx:value>
+                <gx:value>9.47</gx:value>
+                <gx:value>9.81</gx:value>
+                <gx:value>9.69</gx:value>
+                <gx:value>9.61</gx:value>
+                <gx:value>10.23</gx:value>
+                <gx:value>9.27</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.76</gx:value>
+                <gx:value>9.67</gx:value>
+                <gx:value>9.52</gx:value>
+                <gx:value>9.57</gx:value>
+                <gx:value>9.49</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.19</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>9.67</gx:value>
+                <gx:value>9.11</gx:value>
+                <gx:value>8.87</gx:value>
+                <gx:value>9.23</gx:value>
+                <gx:value>9.34</gx:value>
+                <gx:value>9.22</gx:value>
+                <gx:value>9.02</gx:value>
+                <gx:value>9.19</gx:value>
+                <gx:value>9.3</gx:value>
+                <gx:value>9.15</gx:value>
+                <gx:value>9.17</gx:value>
+                <gx:value>8.51</gx:value>
+                <gx:value>9.88</gx:value>
+                <gx:value>9.56</gx:value>
+                <gx:value>9.35</gx:value>
+                <gx:value>9.51</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.12</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>8.99</gx:value>
+                <gx:value>9.03</gx:value>
+                <gx:value>9.21</gx:value>
+                <gx:value>9.57</gx:value>
+                <gx:value>9.21</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.32</gx:value>
+                <gx:value>9.54</gx:value>
+                <gx:value>9.39</gx:value>
+                <gx:value>10</gx:value>
+                <gx:value>9.62</gx:value>
+                <gx:value>9.2</gx:value>
+                <gx:value>9.68</gx:value>
+                <gx:value>10.2</gx:value>
+                <gx:value>9.9</gx:value>
+                <gx:value>9.38</gx:value>
+                <gx:value>9.61</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.56</gx:value>
+                <gx:value>9.22</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.59</gx:value>
+                <gx:value>9.91</gx:value>
+                <gx:value>9.84</gx:value>
+                <gx:value>9.8</gx:value>
+                <gx:value>9.45</gx:value>
+                <gx:value>9.33</gx:value>
+                <gx:value>9.6</gx:value>
+                <gx:value>9.43</gx:value>
+                <gx:value>9.49</gx:value>
+                <gx:value>9.73</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.17</gx:value>
+                <gx:value>9.33</gx:value>
+                <gx:value>9.5</gx:value>
+                <gx:value>9.27</gx:value>
+                <gx:value>9</gx:value>
+                <gx:value>9.44</gx:value>
+                <gx:value>9.34</gx:value>
+                <gx:value>9.14</gx:value>
+                <gx:value>9.52</gx:value>
+                <gx:value>9.48</gx:value>
+                <gx:value>9.25</gx:value>
+                <gx:value>9.13</gx:value>
+                <gx:value>9.3</gx:value>
+                <gx:value>8.86</gx:value>
+                <gx:value>9.42</gx:value>
+                <gx:value>9.48</gx:value>
+                <gx:value>9.26</gx:value>
+                <gx:value>9.17</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.48</gx:value>
+                <gx:value>9.17</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.08</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>9.25</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>9.13</gx:value>
+                <gx:value>9.1</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>9.82</gx:value>
+                <gx:value>9.21</gx:value>
+                <gx:value>9.25</gx:value>
+                <gx:value>9.48</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>9.26</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.22</gx:value>
+                <gx:value>9.14</gx:value>
+                <gx:value>8.87</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>8.96</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>8.43</gx:value>
+                <gx:value>8.86</gx:value>
+                <gx:value>9.19</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>10.14</gx:value>
+                <gx:value>9.51</gx:value>
+                <gx:value>9.49</gx:value>
+                <gx:value>10.1</gx:value>
+                <gx:value>9.3</gx:value>
+                <gx:value>9.71</gx:value>
+                <gx:value>9.72</gx:value>
+                <gx:value>9.17</gx:value>
+                <gx:value>8.86</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>9.25</gx:value>
+                <gx:value>9.66</gx:value>
+                <gx:value>9.21</gx:value>
+                <gx:value>9.41</gx:value>
+                <gx:value>9.47</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>9.14</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>9.03</gx:value>
+                <gx:value>9.16</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>9.03</gx:value>
+                <gx:value>8.95</gx:value>
+                <gx:value>9.38</gx:value>
+                <gx:value>9.15</gx:value>
+                <gx:value>9.11</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.29</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>9.09</gx:value>
+                <gx:value>8.71</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>9.23</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>9.2</gx:value>
+                <gx:value>9.3</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>9.14</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>8.9</gx:value>
+                <gx:value>8.76</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>8.84</gx:value>
+                <gx:value>9.6</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>8.38</gx:value>
+                <gx:value>8.9</gx:value>
+                <gx:value>8.56</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>8.78</gx:value>
+                <gx:value>9.12</gx:value>
+                <gx:value>8.73</gx:value>
+                <gx:value>9.63</gx:value>
+                <gx:value>9.83</gx:value>
+                <gx:value>8.93</gx:value>
+                <gx:value>9.17</gx:value>
+                <gx:value>8.96</gx:value>
+                <gx:value>9</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>9.15</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.97</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>8.73</gx:value>
+                <gx:value>9.06</gx:value>
+                <gx:value>9.29</gx:value>
+                <gx:value>9.58</gx:value>
+                <gx:value>9.54</gx:value>
+                <gx:value>9.5</gx:value>
+                <gx:value>10.03</gx:value>
+                <gx:value>9.68</gx:value>
+                <gx:value>8.95</gx:value>
+                <gx:value>9.29</gx:value>
+                <gx:value>9.2</gx:value>
+                <gx:value>8.79</gx:value>
+                <gx:value>9.33</gx:value>
+                <gx:value>9.25</gx:value>
+                <gx:value>9.13</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>9.4</gx:value>
+                <gx:value>9.41</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>9.47</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>9.41</gx:value>
+                <gx:value>9.45</gx:value>
+                <gx:value>9.33</gx:value>
+                <gx:value>10.05</gx:value>
+                <gx:value>10.07</gx:value>
+                <gx:value>9.49</gx:value>
+                <gx:value>9.34</gx:value>
+                <gx:value>9.26</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>9.27</gx:value>
+                <gx:value>8.29</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>9</gx:value>
+                <gx:value>9.25</gx:value>
+                <gx:value>9.11</gx:value>
+                <gx:value>8.64</gx:value>
+                <gx:value>8.88</gx:value>
+                <gx:value>9.42</gx:value>
+                <gx:value>8.67</gx:value>
+                <gx:value>8.77</gx:value>
+                <gx:value>9.66</gx:value>
+                <gx:value>8.65</gx:value>
+                <gx:value>9.15</gx:value>
+                <gx:value>9.66</gx:value>
+                <gx:value>9.44</gx:value>
+                <gx:value>9.22</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.88</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.7</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>8.59</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>8.9</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>8.82</gx:value>
+                <gx:value>8.8</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>9.3</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.16</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>8.97</gx:value>
+                <gx:value>9.05</gx:value>
+                <gx:value>8.97</gx:value>
+                <gx:value>9.56</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>9.38</gx:value>
+                <gx:value>8.61</gx:value>
+                <gx:value>8.9</gx:value>
+                <gx:value>9.12</gx:value>
+                <gx:value>9.16</gx:value>
+                <gx:value>9.36</gx:value>
+                <gx:value>9.37</gx:value>
+                <gx:value>8.84</gx:value>
+                <gx:value>9.93</gx:value>
+                <gx:value>9.08</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>8.93</gx:value>
+                <gx:value>8.33</gx:value>
+                <gx:value>8.45</gx:value>
+                <gx:value>8.85</gx:value>
+                <gx:value>8.37</gx:value>
+                <gx:value>8.51</gx:value>
+                <gx:value>8.6</gx:value>
+                <gx:value>8.58</gx:value>
+                <gx:value>8.33</gx:value>
+                <gx:value>8.36</gx:value>
+                <gx:value>8.5</gx:value>
+                <gx:value>8.66</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>8.93</gx:value>
+                <gx:value>8.81</gx:value>
+                <gx:value>9.28</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>8.76</gx:value>
+                <gx:value>8.47</gx:value>
+                <gx:value>8.79</gx:value>
+                <gx:value>8.8</gx:value>
+                <gx:value>7.94</gx:value>
+                <gx:value>8.37</gx:value>
+                <gx:value>8.55</gx:value>
+                <gx:value>8.35</gx:value>
+                <gx:value>8.31</gx:value>
+                <gx:value>8.69</gx:value>
+                <gx:value>8.78</gx:value>
+                <gx:value>8.6</gx:value>
+                <gx:value>8.76</gx:value>
+                <gx:value>8.48</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.44</gx:value>
+                <gx:value>8.76</gx:value>
+                <gx:value>8.76</gx:value>
+                <gx:value>8.58</gx:value>
+                <gx:value>8.9</gx:value>
+                <gx:value>8.66</gx:value>
+                <gx:value>8.23</gx:value>
+                <gx:value>8.64</gx:value>
+                <gx:value>8.56</gx:value>
+                <gx:value>8.45</gx:value>
+                <gx:value>8.51</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.64</gx:value>
+                <gx:value>8.38</gx:value>
+                <gx:value>8.37</gx:value>
+                <gx:value>8.62</gx:value>
+                <gx:value>8.62</gx:value>
+                <gx:value>8.66</gx:value>
+                <gx:value>8.65</gx:value>
+                <gx:value>8.87</gx:value>
+                <gx:value>8.92</gx:value>
+                <gx:value>8.64</gx:value>
+                <gx:value>8.69</gx:value>
+                <gx:value>8</gx:value>
+                <gx:value>7.97</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>8.78</gx:value>
+                <gx:value>8.56</gx:value>
+                <gx:value>8.79</gx:value>
+                <gx:value>9.19</gx:value>
+                <gx:value>9.42</gx:value>
+                <gx:value>8.7</gx:value>
+                <gx:value>8.81</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>7.79</gx:value>
+                <gx:value>8.65</gx:value>
+                <gx:value>8.97</gx:value>
+                <gx:value>8.74</gx:value>
+                <gx:value>7.49</gx:value>
+                <gx:value>8.02</gx:value>
+                <gx:value>8.39</gx:value>
+                <gx:value>7.94</gx:value>
+                <gx:value>8.05</gx:value>
+                <gx:value>8.82</gx:value>
+                <gx:value>8.37</gx:value>
+                <gx:value>8.66</gx:value>
+                <gx:value>9.02</gx:value>
+                <gx:value>8.51</gx:value>
+                <gx:value>8.1</gx:value>
+                <gx:value>8.05</gx:value>
+                <gx:value>8.28</gx:value>
+                <gx:value>8.53</gx:value>
+                <gx:value>8.74</gx:value>
+                <gx:value>8.73</gx:value>
+                <gx:value>8.11</gx:value>
+                <gx:value>8.42</gx:value>
+                <gx:value>8.4</gx:value>
+                <gx:value>8.54</gx:value>
+                <gx:value>8.35</gx:value>
+                <gx:value>8.38</gx:value>
+                <gx:value>8.63</gx:value>
+                <gx:value>8.09</gx:value>
+                <gx:value>8.02</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>8.95</gx:value>
+                <gx:value>8.45</gx:value>
+                <gx:value>8.77</gx:value>
+                <gx:value>8.56</gx:value>
+                <gx:value>7.92</gx:value>
+                <gx:value>8.18</gx:value>
+                <gx:value>8.69</gx:value>
+                <gx:value>8.51</gx:value>
+                <gx:value>8.09</gx:value>
+                <gx:value>7.6</gx:value>
+                <gx:value>8.09</gx:value>
+                <gx:value>7.84</gx:value>
+                <gx:value>7.66</gx:value>
+                <gx:value>8.09</gx:value>
+                <gx:value>8.07</gx:value>
+                <gx:value>8.19</gx:value>
+                <gx:value>8.01</gx:value>
+                <gx:value>7.4</gx:value>
+                <gx:value>8.15</gx:value>
+                <gx:value>8.17</gx:value>
+                <gx:value>8.1</gx:value>
+                <gx:value>8.39</gx:value>
+                <gx:value>8.44</gx:value>
+                <gx:value>8.63</gx:value>
+                <gx:value>8.79</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>8.75</gx:value>
+                <gx:value>8.74</gx:value>
+                <gx:value>9.35</gx:value>
+                <gx:value>9.6</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>7.93</gx:value>
+                <gx:value>8.2</gx:value>
+                <gx:value>8.46</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.59</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.55</gx:value>
+                <gx:value>8.26</gx:value>
+                <gx:value>8.36</gx:value>
+                <gx:value>8.56</gx:value>
+                <gx:value>7.87</gx:value>
+                <gx:value>7.99</gx:value>
+                <gx:value>8.15</gx:value>
+                <gx:value>8.3</gx:value>
+                <gx:value>8.16</gx:value>
+                <gx:value>7.69</gx:value>
+                <gx:value>8.02</gx:value>
+                <gx:value>8.25</gx:value>
+                <gx:value>8.21</gx:value>
+                <gx:value>8.72</gx:value>
+                <gx:value>8.67</gx:value>
+                <gx:value>8.46</gx:value>
+                <gx:value>8.35</gx:value>
+                <gx:value>8.5</gx:value>
+                <gx:value>8.26</gx:value>
+                <gx:value>8.22</gx:value>
+                <gx:value>7.64</gx:value>
+                <gx:value>7.76</gx:value>
+                <gx:value>8.3</gx:value>
+                <gx:value>8.14</gx:value>
+                <gx:value>8.31</gx:value>
+                <gx:value>7.99</gx:value>
+                <gx:value>8.69</gx:value>
+                <gx:value>8.48</gx:value>
+                <gx:value>8.81</gx:value>
+                <gx:value>8.03</gx:value>
+                <gx:value>8.86</gx:value>
+                <gx:value>9.12</gx:value>
+                <gx:value>8.43</gx:value>
+                <gx:value>8.72</gx:value>
+                <gx:value>8.99</gx:value>
+                <gx:value>8.77</gx:value>
+                <gx:value>8.69</gx:value>
+                <gx:value>8.36</gx:value>
+                <gx:value>8.49</gx:value>
+                <gx:value>8.31</gx:value>
+                <gx:value>8.64</gx:value>
+                <gx:value>8.42</gx:value>
+                <gx:value>8.52</gx:value>
+                <gx:value>7.84</gx:value>
+                <gx:value>8.08</gx:value>
+                <gx:value>8.07</gx:value>
+                <gx:value>8.45</gx:value>
+                <gx:value>8.17</gx:value>
+                <gx:value>7.79</gx:value>
+                <gx:value>7.33</gx:value>
+                <gx:value>6.91</gx:value>
+                <gx:value>5.97</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.09</gx:value>
+                <gx:value>3.98</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>5.23</gx:value>
+                <gx:value>5.75</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>3.24</gx:value>
+                <gx:value>5.51</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>7.09</gx:value>
+                <gx:value>7.26</gx:value>
+                <gx:value>7.79</gx:value>
+                <gx:value>8.08</gx:value>
+                <gx:value>8.18</gx:value>
+                <gx:value>8.3</gx:value>
+                <gx:value>8.45</gx:value>
+                <gx:value>8</gx:value>
+                <gx:value>8.39</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>8.21</gx:value>
+                <gx:value>8.26</gx:value>
+                <gx:value>7.61</gx:value>
+                <gx:value>7.1</gx:value>
+                <gx:value>7.63</gx:value>
+                <gx:value>7.44</gx:value>
+                <gx:value>7.9</gx:value>
+                <gx:value>8.67</gx:value>
+                <gx:value>8.58</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>8.89</gx:value>
+                <gx:value>8.17</gx:value>
+                <gx:value>8.34</gx:value>
+                <gx:value>7.05</gx:value>
+                <gx:value>8.6</gx:value>
+                <gx:value>8.66</gx:value>
+                <gx:value>8.66</gx:value>
+                <gx:value>8.42</gx:value>
+                <gx:value>7.7</gx:value>
+                <gx:value>8.26</gx:value>
+                <gx:value>8.31</gx:value>
+                <gx:value>7.6</gx:value>
+                <gx:value>8.78</gx:value>
+                <gx:value>8.13</gx:value>
+                <gx:value>9.85</gx:value>
+                <gx:value>7.81</gx:value>
+                <gx:value>7.92</gx:value>
+                <gx:value>8.29</gx:value>
+                <gx:value>8.54</gx:value>
+                <gx:value>8.54</gx:value>
+                <gx:value>8.5</gx:value>
+                <gx:value>8.54</gx:value>
+                <gx:value>8.19</gx:value>
+                <gx:value>7.72</gx:value>
+                <gx:value>7.6</gx:value>
+                <gx:value>8.15</gx:value>
+                <gx:value>8.29</gx:value>
+                <gx:value>6.76</gx:value>
+                <gx:value>7.24</gx:value>
+                <gx:value>7.45</gx:value>
+                <gx:value>7.28</gx:value>
+                <gx:value>8.44</gx:value>
+                <gx:value>7.01</gx:value>
+                <gx:value>7.3</gx:value>
+                <gx:value>7.92</gx:value>
+                <gx:value>8.1</gx:value>
+                <gx:value>7.98</gx:value>
+                <gx:value>7.62</gx:value>
+                <gx:value>7.94</gx:value>
+                <gx:value>8.52</gx:value>
+                <gx:value>7.69</gx:value>
+                <gx:value>7.47</gx:value>
+                <gx:value>8.14</gx:value>
+                <gx:value>6.69</gx:value>
+                <gx:value>8.2</gx:value>
+                <gx:value>8.3</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>8.41</gx:value>
+                <gx:value>9.7</gx:value>
+                <gx:value>9.31</gx:value>
+                <gx:value>9.86</gx:value>
+                <gx:value>9.57</gx:value>
+                <gx:value>9</gx:value>
+                <gx:value>8.82</gx:value>
+                <gx:value>9.82</gx:value>
+                <gx:value>9.53</gx:value>
+                <gx:value>9.19</gx:value>
+                <gx:value>9.7</gx:value>
+                <gx:value>9.33</gx:value>
+                <gx:value>10.38</gx:value>
+                <gx:value>8.74</gx:value>
+                <gx:value>8.52</gx:value>
+                <gx:value>9.24</gx:value>
+                <gx:value>9.06</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>10.16</gx:value>
+                <gx:value>10.22</gx:value>
+                <gx:value>9.93</gx:value>
+                <gx:value>9.67</gx:value>
+                <gx:value>9.72</gx:value>
+                <gx:value>9.29</gx:value>
+                <gx:value>8.8</gx:value>
+                <gx:value>8.59</gx:value>
+                <gx:value>9.21</gx:value>
+                <gx:value>9.04</gx:value>
+                <gx:value>9.05</gx:value>
+                <gx:value>9.43</gx:value>
+                <gx:value>9.61</gx:value>
+                <gx:value>8.94</gx:value>
+                <gx:value>8.91</gx:value>
+                <gx:value>9.33</gx:value>
+                <gx:value>8.27</gx:value>
+                <gx:value>8.8</gx:value>
+                <gx:value>8.27</gx:value>
+                <gx:value>8.09</gx:value>
+                <gx:value>8.48</gx:value>
+                <gx:value>7.47</gx:value>
+                <gx:value>8.21</gx:value>
+                <gx:value>8.29</gx:value>
+                <gx:value>8.51</gx:value>
+                <gx:value>8.38</gx:value>
+                <gx:value>8.5</gx:value>
+                <gx:value>8.14</gx:value>
+                <gx:value>7.82</gx:value>
+                <gx:value>8.44</gx:value>
+                <gx:value>8.43</gx:value>
+                <gx:value>8</gx:value>
+                <gx:value>8.07</gx:value>
+                <gx:value>7.7</gx:value>
+                <gx:value>8.23</gx:value>
+                <gx:value>8.72</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>7.42</gx:value>
+                <gx:value>8.5</gx:value>
+                <gx:value>8.1</gx:value>
+                <gx:value>8.01</gx:value>
+                <gx:value>7.73</gx:value>
+                <gx:value>9</gx:value>
+                <gx:value>8.65</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>8.68</gx:value>
+                <gx:value>9.18</gx:value>
+                <gx:value>8.34</gx:value>
+                <gx:value>8.72</gx:value>
+                <gx:value>8.44</gx:value>
+                <gx:value>8.19</gx:value>
+                <gx:value>8.75</gx:value>
+                <gx:value>8.06</gx:value>
+                <gx:value>6.98</gx:value>
+                <gx:value>8.26</gx:value>
+                <gx:value>7.71</gx:value>
+                <gx:value>7.15</gx:value>
+                <gx:value>7.52</gx:value>
+                <gx:value>7.79</gx:value>
+                <gx:value>7.81</gx:value>
+                <gx:value>6.57</gx:value>
+                <gx:value>8.02</gx:value>
+                <gx:value>8.15</gx:value>
+                <gx:value>8.21</gx:value>
+                <gx:value>9.12</gx:value>
+                <gx:value>8.37</gx:value>
+                <gx:value>8.85</gx:value>
+                <gx:value>9.67</gx:value>
+                <gx:value>9.02</gx:value>
+                <gx:value>8.46</gx:value>
+                <gx:value>8.03</gx:value>
+                <gx:value>8.35</gx:value>
+                <gx:value>8.6</gx:value>
+                <gx:value>9.01</gx:value>
+                <gx:value>8.09</gx:value>
+                <gx:value>8.73</gx:value>
+                <gx:value>8.58</gx:value>
+                <gx:value>7.96</gx:value>
+                <gx:value>7.82</gx:value>
+                <gx:value>8.2</gx:value>
+                <gx:value>8.06</gx:value>
+                <gx:value>7.72</gx:value>
+                <gx:value>7.42</gx:value>
+                <gx:value>7.37</gx:value>
+                <gx:value>8.15</gx:value>
+                <gx:value>7.95</gx:value>
+                <gx:value>7.57</gx:value>
+                <gx:value>8.13</gx:value>
+                <gx:value>7.76</gx:value>
+                <gx:value>7.96</gx:value>
+                <gx:value>8.56</gx:value>
+                <gx:value>8.23</gx:value>
+                <gx:value>8.18</gx:value>
+                <gx:value>7.98</gx:value>
+                <gx:value>8.83</gx:value>
+                <gx:value>8.03</gx:value>
+                <gx:value>7.89</gx:value>
+                <gx:value>6.81</gx:value>
+                <gx:value>6.66</gx:value>
+                <gx:value>7.03</gx:value>
+                <gx:value>6.62</gx:value>
+                <gx:value>5.88</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>2.71</gx:value>
+                <gx:value>2.73</gx:value>
+                <gx:value>1.97</gx:value>
+                <gx:value>2.01</gx:value>
+                <gx:value>1.69</gx:value>
+                <gx:value>1.49</gx:value>
+                <gx:value>1.09</gx:value>
+                <gx:value>1.85</gx:value>
+                <gx:value>1.48</gx:value>
+                <gx:value>1.74</gx:value>
+                <gx:value>0.83</gx:value>
+                <gx:value>1.4</gx:value>
+                <gx:value>0.88</gx:value>
+                <gx:value>2.39</gx:value>
+                <gx:value>0.94</gx:value>
+                <gx:value>1.26</gx:value>
+                <gx:value>1.27</gx:value>
+                <gx:value>1.64</gx:value>
+                <gx:value>1.29</gx:value>
+                <gx:value>1.2</gx:value>
+                <gx:value>1.2</gx:value>
+                <gx:value>1.05</gx:value>
+                <gx:value>1.87</gx:value>
+                <gx:value>1.65</gx:value>
+                <gx:value>1.78</gx:value>
+                <gx:value>1.36</gx:value>
+                <gx:value>1.15</gx:value>
+                <gx:value>0.97</gx:value>
+                <gx:value>1.5</gx:value>
+                <gx:value>1.37</gx:value>
+                <gx:value>0.94</gx:value>
+                <gx:value>0.68</gx:value>
+                <gx:value>0.88</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.15</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.15</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.25</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>1.46</gx:value>
+                <gx:value>1.22</gx:value>
+                <gx:value>0.65</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value>5.05</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.72</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.85</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.71</gx:value>
+                <gx:value>4.73</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.81</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.16</gx:value>
+                <gx:value>5.17</gx:value>
+                <gx:value>5.15</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.18</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.16</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.17</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>4.85</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.15</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.85</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.81</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.15</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.19</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.92</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.17</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.16</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.96</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>4.97</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>5.07</gx:value>
+                <gx:value>5.06</gx:value>
+                <gx:value>5</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.05</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.16</gx:value>
+                <gx:value>5.16</gx:value>
+                <gx:value>5.18</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.11</gx:value>
+                <gx:value>5.12</gx:value>
+                <gx:value>5.17</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>5.15</gx:value>
+                <gx:value>5.08</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.95</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>4.93</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.99</gx:value>
+                <gx:value>5.09</gx:value>
+                <gx:value>5.2</gx:value>
+                <gx:value>5.29</gx:value>
+                <gx:value>5.34</gx:value>
+                <gx:value>5.66</gx:value>
+                <gx:value>5.53</gx:value>
+                <gx:value>5.13</gx:value>
+                <gx:value>5.14</gx:value>
+                <gx:value>4.76</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.69</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.87</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>5.04</gx:value>
+                <gx:value>5.1</gx:value>
+                <gx:value>5.01</gx:value>
+                <gx:value>4.91</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.85</gx:value>
+                <gx:value>4.81</gx:value>
+                <gx:value>4.78</gx:value>
+                <gx:value>4.94</gx:value>
+                <gx:value>4.89</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.81</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.76</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>4.68</gx:value>
+                <gx:value>4.68</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.76</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.9</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.82</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.54</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.52</gx:value>
+                <gx:value>4.29</gx:value>
+                <gx:value>4.28</gx:value>
+                <gx:value>4.33</gx:value>
+                <gx:value>4.48</gx:value>
+                <gx:value>4.55</gx:value>
+                <gx:value>4.68</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.68</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.73</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.78</gx:value>
+                <gx:value>4.81</gx:value>
+                <gx:value>4.78</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.76</gx:value>
+                <gx:value>4.67</gx:value>
+                <gx:value>4.66</gx:value>
+                <gx:value>4.78</gx:value>
+                <gx:value>4.73</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.67</gx:value>
+                <gx:value>4.68</gx:value>
+                <gx:value>4.61</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>4.69</gx:value>
+                <gx:value>4.69</gx:value>
+                <gx:value>4.63</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.63</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>4.64</gx:value>
+                <gx:value>4.68</gx:value>
+                <gx:value>4.61</gx:value>
+                <gx:value>4.66</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.54</gx:value>
+                <gx:value>4.46</gx:value>
+                <gx:value>4.47</gx:value>
+                <gx:value>4.5</gx:value>
+                <gx:value>4.54</gx:value>
+                <gx:value>4.55</gx:value>
+                <gx:value>4.58</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.47</gx:value>
+                <gx:value>4.41</gx:value>
+                <gx:value>4.49</gx:value>
+                <gx:value>4.36</gx:value>
+                <gx:value>4.46</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.42</gx:value>
+                <gx:value>4.51</gx:value>
+                <gx:value>4.57</gx:value>
+                <gx:value>4.63</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>4.54</gx:value>
+                <gx:value>4.57</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.51</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.57</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.44</gx:value>
+                <gx:value>4.46</gx:value>
+                <gx:value>4.54</gx:value>
+                <gx:value>4.64</gx:value>
+                <gx:value>4.67</gx:value>
+                <gx:value>4.58</gx:value>
+                <gx:value>4.55</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.49</gx:value>
+                <gx:value>4.58</gx:value>
+                <gx:value>4.53</gx:value>
+                <gx:value>4.61</gx:value>
+                <gx:value>4.5</gx:value>
+                <gx:value>4.67</gx:value>
+                <gx:value>4.59</gx:value>
+                <gx:value>4.62</gx:value>
+                <gx:value>4.59</gx:value>
+                <gx:value>4.56</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.66</gx:value>
+                <gx:value>4.59</gx:value>
+                <gx:value>4.66</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>4.58</gx:value>
+                <gx:value>4.45</gx:value>
+                <gx:value>4.58</gx:value>
+                <gx:value>4.59</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.69</gx:value>
+                <gx:value>4.6</gx:value>
+                <gx:value>4.53</gx:value>
+                <gx:value>4.52</gx:value>
+                <gx:value>4.72</gx:value>
+                <gx:value>4.48</gx:value>
+                <gx:value>4.39</gx:value>
+                <gx:value>4.58</gx:value>
+                <gx:value>4.77</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>5.03</gx:value>
+                <gx:value>4.86</gx:value>
+                <gx:value>4.81</gx:value>
+                <gx:value>4.83</gx:value>
+                <gx:value>4.71</gx:value>
+                <gx:value>4.72</gx:value>
+                <gx:value>4.78</gx:value>
+                <gx:value>4.74</gx:value>
+                <gx:value>4.61</gx:value>
+                <gx:value>4.79</gx:value>
+                <gx:value>4.84</gx:value>
+                <gx:value>4.7</gx:value>
+                <gx:value>4.72</gx:value>
+                <gx:value>4.8</gx:value>
+                <gx:value>4.75</gx:value>
+                <gx:value>4.69</gx:value>
+                <gx:value>4.32</gx:value>
+                <gx:value>4.37</gx:value>
+                <gx:value>4.33</gx:value>
+                <gx:value>4.11</gx:value>
+                <gx:value>4.09</gx:value>
+                <gx:value>4.03</gx:value>
+                <gx:value>4.17</gx:value>
+                <gx:value>4.03</gx:value>
+                <gx:value>4.08</gx:value>
+                <gx:value>4.26</gx:value>
+                <gx:value>4.01</gx:value>
+                <gx:value>3.61</gx:value>
+                <gx:value>3.48</gx:value>
+                <gx:value>3.57</gx:value>
+                <gx:value>3.9</gx:value>
+                <gx:value>4.98</gx:value>
+                <gx:value>5.02</gx:value>
+                <gx:value>5.65</gx:value>
+                <gx:value>5.64</gx:value>
+                <gx:value>0.18</gx:value>
+                <gx:value>1.04</gx:value>
+                <gx:value>1.25</gx:value>
+                <gx:value>1.68</gx:value>
+                <gx:value>1.8</gx:value>
+                <gx:value>2</gx:value>
+                <gx:value>2.93</gx:value>
+                <gx:value>3.06</gx:value>
+                <gx:value>3.51</gx:value>
+                <gx:value>4.02</gx:value>
+                <gx:value>4.65</gx:value>
+                <gx:value>5.17</gx:value>
+                <gx:value>5.51</gx:value>
+                <gx:value>5.61</gx:value>
+                <gx:value>5.94</gx:value>
+                <gx:value>0.19</gx:value>
+                <gx:value>0.97</gx:value>
+                <gx:value>0.98</gx:value>
+                <gx:value />
+                <gx:value>1.4</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value>2.05</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value>1.59</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value>5.24</gx:value>
+                <gx:value>5.3</gx:value>
+                <gx:value>4.81</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+      </gx:MultiTrack>
+    </Placemark>
+  </Document>
+</kml>
